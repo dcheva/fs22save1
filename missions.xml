@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<missions>
+    <mission type="harvest" reward="491" status="0" success="false">
+        <field id="23" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="65.559998" growthState="9" limeFactor="1.000000" weedFactor="0.500000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
+        <harvest sellPointPlaceableId="6" unloadingStationIndex="1" expectedLiters="2661.735840" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="spray" reward="785" status="0" success="false">
+        <field id="16" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="125.695000" growthState="6" limeFactor="1.000000" weedFactor="0.250000" stubbleFactor="0.000000" weedState="4" fruitTypeName="SUNFLOWER"/>
+    </mission>
+</missions>
