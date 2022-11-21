@@ -28,6 +28,6 @@
         <harvest sellPointPlaceableId="16" unloadingStationIndex="1" expectedLiters="4988.312012" depositedLiters="0.000000"/>
     </mission>
     <mission type="cultivate" reward="741" status="0" success="false">
-        <field id="43" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="10" vehicleUseCost="128.511505" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
+        <field id="43" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="10" vehicleUseCost="128.511505" spawnedVehicles="false" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
     </mission>
 </missions>
