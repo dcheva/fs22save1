@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>285865</money>
+        <money>194058</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1138"/>
+    <slotSystem slotUsage="1129"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -77,7 +77,7 @@
     <mod modName="FS22_ObjectStorage" title="Хранилище Объектов" version="1.0.1.0" required="false" fileHash="b58eba868388f2e616b2592305499ebc"/>
     <mod modName="FS22_K700_crossplay" title="K-700" version="1.0.0.0" required="false" fileHash="05b5acc900cfc1538daa52eff72c7d4f"/>
     <mod modName="FS22_lsfmUniversalTankPack" title="LSFM Universal Tank Pack" version="1.0.0.6" required="false" fileHash="5a4f5e5f8a8df87a9ab853189efbf70d"/>
-    <mod modName="FS12_MTZ_1221_RAT" title="МТЗ 1221" version="1.0.0.2" required="false" fileHash="8104d327eea732d864c2a62881eaf32b"/>
+    <mod modName="FS22_Bandeirante_Attacker_20000" title="Bandeirante Attacker 20.000" version="1.0.0.0" required="false" fileHash="7ee1a128fbccf0325939a5ecffac9705"/>
     <mod modName="FS22_bunkerSiloSet" title="Silage/bioManure Silo Pack" version="1.1.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_realDirtFix" title="Real Dirt Fix" version="1.0.0.0" required="false" fileHash="2dd8158aafdfde86fe2d552c2d46f2df"/>
     <mod modName="FS22_Lizard_D60" title="Lizard D60" version="1.0.0.0" required="false" fileHash="f83f21e43f09d1939ca76f6fac65e672"/>
@@ -177,7 +177,7 @@
     <mod modName="FS22_Courseplay_fs22planet" title="CoursePlay" version="7.1.2.1" required="false" fileHash="f00c744f8137659937cb62acf174a030"/>
     <mod modName="FS22_PSE_12_5B" title="ПСЕ-12,5Б" version="1.0.0.0" required="false" fileHash="8638e475db193987a74928cec5f87733"/>
     <mod modName="FS22_MasseyFerguson100" title="Massey Ferguson 100 Series" version="1.0.0.0" required="false" fileHash="d4aedf31101d1180c4dd1059c19a8220"/>
-    <mod modName="FS22_Bandeirante_Attacker_20000" title="Bandeirante Attacker 20.000" version="1.0.0.0" required="false" fileHash="7ee1a128fbccf0325939a5ecffac9705"/>
+    <mod modName="FS12_MTZ_1221_RAT" title="МТЗ 1221" version="1.0.0.2" required="false" fileHash="8104d327eea732d864c2a62881eaf32b"/>
     <mod modName="FS22_Tury1216b" title="Tur12 Tur16" version="1.0.3.0" required="false" fileHash="b824c7907a5868de95366274d3b73cb8"/>
     <mod modName="FS22_Lizard_TRA500" title="Lizard TRA 500" version="1.5.0.0" required="false" fileHash="b301db7e6526b3384895af6fddce9009"/>
     <mod modName="pdlc_forestryPack" title="Platinum Expansion" version="1.2.0.0" required="false" fileHash="287b7064e3c6c72c089040e7d062961a"/>
@@ -186,10 +186,10 @@
     <mod modName="FS22_EasyDevControls" title="Easy Development Controls" version="1.3.0.1" required="false" fileHash="5c2aa62e10d369182aa6137495470db8"/>
     <mod modName="FS22_3rdPerson" title="3rd Person" version="1.5.0.0" required="false" fileHash="bed33b3752839a5e952eabe3d1af3baa"/>
     <mod modName="FS22_6cylMokrzynByZiomsoN" title="Mokrzyn Ursus 6cyl Pack" version="3.0.0.0" required="false" fileHash="e3e93dd1cb07c032a4de502a5d003d74"/>
-    <mod modName="FS22_Lizard_BackLoader" title="Back Grabber Loader" version="1.0.0.0" required="false" fileHash="14af38adc6555f9af66cf413f29f725c"/>
     <mod modName="FS22_Multifruit_Buying_Station" title="Multifruit Buying Station" version="1.0.1.0" required="false" fileHash="4c6a338bb9f5d1f4f2864e20d16416cc"/>
-    <mod modName="FS22_RM_Subsidy" title="Government Subsidy" version="1.0.0.0" required="false" fileHash="8a6b59d79f29f13b76e80eb699b9417c"/>
+    <mod modName="FS22_Lizard_BackLoader" title="Back Grabber Loader" version="1.0.0.0" required="false" fileHash="14af38adc6555f9af66cf413f29f725c"/>
     <mod modName="FS22_FarmhouseWos" title="Farmhouse" version="1.0.0.0" required="false" fileHash="898dadda70ba7dfe4be945ec0d211946"/>
+    <mod modName="FS22_RM_Subsidy" title="Government Subsidy" version="1.0.0.0" required="false" fileHash="8a6b59d79f29f13b76e80eb699b9417c"/>
     <mod modName="FS22_faresin626_Euro" title="Faresin 6.26" version="1.0.0.0" required="false" fileHash="7394f77b9003246e9026f65879406241"/>
     <mod modName="FS22_Fliegl_DPW_180_Squarebale_Autoload_BAFM" title="Fliegl DPW 180 Squarebale Autoload" version="1.0.0.0" required="false" fileHash="904595463cf64a47336c6aa61837df9e"/>
     <mod modName="FS22_PlaceableExtended" title="PlaceableExtended" version="1.0.0.0" required="false" fileHash="f7973c94ca95bafcfa9408e9e8be7431"/>
