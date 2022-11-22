@@ -43,7 +43,7 @@
         <difficulty>1</difficulty>
         <economicDifficulty>2</economicDifficulty>
         <dirtInterval>3</dirtInterval>
-        <timeScale>0.000000</timeScale>
+        <timeScale>1.000000</timeScale>
         <autoSaveInterval>5.000000</autoSaveInterval>
     </settings>
     <guidedTour active="false" currentStepIndex="0" state=""/>
@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>107620</money>
+        <money>454510</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1129"/>
+    <slotSystem slotUsage="1130"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -73,7 +73,7 @@
     <mod modName="FS22_3rdPerson" title="3rd Person" version="1.5.0.0" required="false" fileHash="bed33b3752839a5e952eabe3d1af3baa"/>
     <mod modName="FS22_Claas_Krone_Baler_Pack_With_Lizard_R90" title="Baler Package With Lizard R90" version="2.0.0.0" required="false" fileHash="06f34a90b1d439f834b78f77dbdea9c0"/>
     <mod modName="FS22_MF3690A" title="MF 3690 A830 by Cheva" version="1.0.2.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_6cylMokrzynByZiomsoN" title="Mokrzyn Ursus 6cyl Pack" version="3.0.0.0" required="false" fileHash="e3e93dd1cb07c032a4de502a5d003d74"/>
+    <mod modName="FS22_LongReachChainsaw" title="Long Reach Chainsaw" version="1.1.0.0" required="false" fileHash="c236fad0ed19a2867dab05b2423d97d2"/>
     <mod modName="FS22_RollandPack" title="Rolland Pack" version="1.0.0.5" required="false" fileHash="43f341cdc9dd1e7a24c54e24503df9de"/>
     <mod modName="FS22_PongePack" title="Ponge Pack" version="1.0.0.0" required="false" fileHash="fa4bf516e3255b074bf3773680330a7b"/>
     <mod modName="FS22_Osada" title="Osada" version="1.0.1.2" required="true" fileHash="nil"/>
@@ -121,7 +121,7 @@
     <mod modName="FS22_WaterHydrant" title="Water Hydrant" version="1.0.0.0" required="false" fileHash="480aad82a7abef3da31f48a33312dcad"/>
     <mod modName="FS22_RealMower" title="Real Mower" version="1.0.0.0" required="false" fileHash="fd16b5dbfb891808003f91780c93f7fe"/>
     <mod modName="FS22_umz_6kl" title="ЮМЗ-6КЛ" version="1.0.0.2" required="false" fileHash="27ba3d07438225e0c63b7f562fb203e9"/>
-    <mod modName="FS22_AIVehicleExtension" title="AI Vehicle Extension" version="0.0.1.6" required="false" fileHash="dcfd6d4feb203970a92709536f6cd7a5"/>
+    <mod modName="FS22_BandeiranteVirtuos1300" title="Bandeirante Virtuos 1300" version="1.0.0.0" required="false" fileHash="203f24bcd3db3ae79c80e10488b11473"/>
     <mod modName="FS22_caseIHMagnum7240Pro" title="CASE IH Magnum 7200 Pro Series" version="1.0.0.1" required="false" fileHash="944c6b8c3e3b9f55f5677634690884c6"/>
     <mod modName="FS22_Courseplay_fs22planet" title="CoursePlay" version="7.1.2.1" required="false" fileHash="f00c744f8137659937cb62acf174a030"/>
     <mod modName="FS22_FieldCreator" title="Field Creator" version="1.0.0.0" required="false" fileHash="18f33d2fcb27513e37c8fd3fe9ad978a"/>
@@ -176,16 +176,16 @@
     <mod modName="FS22_MBtrac1100_1800_fs22planet" title="MB trac 1100-1800" version="2.0.0.6" required="false" fileHash="172fa3b245d0ff7d075470a0feecea3e"/>
     <mod modName="FS22_K700_crossplay" title="K-700" version="1.0.0.0" required="false" fileHash="05b5acc900cfc1538daa52eff72c7d4f"/>
     <mod modName="FS22_kverneland753C" title="Kverneland Taarup TA 753C" version="1.0.0.0" required="false" fileHash="0ebc30257991a835b6c0393c0ac0cead"/>
-    <mod modName="FS22_BandeiranteVirtuos1300" title="Bandeirante Virtuos 1300" version="1.0.0.0" required="false" fileHash="203f24bcd3db3ae79c80e10488b11473"/>
+    <mod modName="FS22_6cylMokrzynByZiomsoN" title="Mokrzyn Ursus 6cyl Pack" version="3.0.0.0" required="false" fileHash="e3e93dd1cb07c032a4de502a5d003d74"/>
     <mod modName="FS22_terraDosT4_40" title="Holmer Terra Dos T4-40" version="1.0.1.0" required="false" fileHash="60e8bd18b4f2d4a93341188b4960c1a2"/>
     <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.0" required="false" fileHash="d613ecc56801e7c4565cc10468b1a60a"/>
-    <mod modName="FS22_Lizard_MT" title="LIZARD Subsoiler 6MT/9MT" version="1.0.0.0" required="false" fileHash="3d4bfef4107423c09c50e761518af6c2"/>
+    <mod modName="FS22_Magsi_Tool_Pack" title="Magsi Tool Pack" version="1.0.1.0" required="false" fileHash="a2e18e526d339e578cdefabe5c60f241"/>
     <mod modName="FS22_GrimmePack" title="Grimme Pack" version="1.0.0.1" required="false" fileHash="55bb950650ac774996c788162b772958"/>
     <mod modName="FS19_HTZ_T150_i" title="Т-150К" version="1.0.0.0" required="false" fileHash="3b7b8adc69415a7c37eca81b471089ff"/>
     <mod modName="FS22_Lizard_QuadBear" title="Lizard Quad Bear" version="1.0.0.0" required="false" fileHash="acb5b1eb55d8e89fe4714c01c2c33e6e"/>
     <mod modName="FS22_EasyDevControls" title="Easy Development Controls" version="1.3.0.1" required="false" fileHash="5c2aa62e10d369182aa6137495470db8"/>
     <mod modName="FS22_bunkerSiloSet" title="Silage/bioManure Silo Pack" version="1.1.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_Amkar_45" title="Амкар45" version="1.0.0.0" required="false" fileHash="85c08bc2a865511fa72f8aef11f3968f"/>
+    <mod modName="FS22_Brazilian_cow_corral" title="Brazilian Cow Corral" version="1.0.0.0" required="false" fileHash="678079cf7ce3a3ebc06d8a77c2dec271"/>
     <mod modName="FS22_UndergroundGrainStorage" title="Underfloor Storage For Bulk Materials Or Liquids" version="1.0.0.0" required="false" fileHash="0477a7b7aa6dce018fe72fb4ad934cb4"/>
     <mod modName="FS22_Lizard_D60" title="Lizard D60" version="1.0.0.0" required="false" fileHash="f83f21e43f09d1939ca76f6fac65e672"/>
     <mod modName="FS22_Lizard_BackLoader" title="Back Grabber Loader" version="1.0.0.0" required="false" fileHash="14af38adc6555f9af66cf413f29f725c"/>
@@ -193,22 +193,22 @@
     <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.1.0.0" required="false" fileHash="824b01df5f17a1693811eeea47376932"/>
     <mod modName="FS22_PSE_12_5B" title="ПСЕ-12,5Б" version="1.0.0.0" required="false" fileHash="8638e475db193987a74928cec5f87733"/>
     <mod modName="FS22_Duett_7300" title="Duett 7300 by Cheva" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_Lizard4T_crossplay" title="Lizard 4T" version="1.0.0.0" required="false" fileHash="51a980d7797a5d0d5671a2756fc2677f"/>
-    <mod modName="FS22_Autoload_Belt" title="Grimme SL8022 Quantum And TC816 Autoload" version="1.0.0.0" required="false" fileHash="1df1eb13a45afb0d2de01582a541169f"/>
+    <mod modName="FS22_Fliegl_DPW_180_Squarebale_Autoload_BAFM" title="Fliegl DPW 180 Squarebale Autoload" version="1.0.0.0" required="false" fileHash="904595463cf64a47336c6aa61837df9e"/>
+    <mod modName="FS22_AIVehicleExtension" title="AI Vehicle Extension" version="0.0.1.6" required="false" fileHash="dcfd6d4feb203970a92709536f6cd7a5"/>
     <mod modName="FS22_Liebherr_TL436" title="Liebherr TL 436-7" version="1.0.0.0" required="false" fileHash="01596ad78597c7ee1b449afb48a0fa47"/>
     <mod modName="FS22_grimmeVaritron470" title="Grimme Varitron 470 Platinum Terra Trac" version="1.0.0.2" required="false" fileHash="0b2f764b98f21a041bbe54c8a7154226"/>
-    <mod modName="FS22_Fliegl_DPW_180_Squarebale_Autoload_BAFM" title="Fliegl DPW 180 Squarebale Autoload" version="1.0.0.0" required="false" fileHash="904595463cf64a47336c6aa61837df9e"/>
     <mod modName="FS22_FuelStorage" title="Fuel Tank" version="1.0.0.0" required="false" fileHash="a1ce2b1dcbca84227d2de25041742f2f"/>
+    <mod modName="FS22_Amkar_45" title="Амкар45" version="1.0.0.0" required="false" fileHash="85c08bc2a865511fa72f8aef11f3968f"/>
+    <mod modName="FS22_Lizard4T_crossplay" title="Lizard 4T" version="1.0.0.0" required="false" fileHash="51a980d7797a5d0d5671a2756fc2677f"/>
     <mod modName="FS22_Claas_Quadrant_5300FC" title="Claas Quadrant 5300FC by Cheva" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_Brazilian_cow_corral" title="Brazilian Cow Corral" version="1.0.0.0" required="false" fileHash="678079cf7ce3a3ebc06d8a77c2dec271"/>
     <mod modName="FS22_MF3000" title="Massey-Ferguson 3000 Series" version="1.0.1.0" required="false" fileHash="8f89e1ab10d8e342e8f45b83bc668587"/>
     <mod modName="FS22_MasseyFerguson100" title="Massey Ferguson 100 Series" version="1.0.0.0" required="false" fileHash="d4aedf31101d1180c4dd1059c19a8220"/>
     <mod modName="FS22_LizardPHMini" title="Lizard PH Mini Sugar Beet Harvester" version="1.0.0.0" required="false" fileHash="829674697cd5dc9faee6c2d3d0f17897"/>
     <mod modName="FS22_bresselUndLadeShovelPack" title="Bressel Und Lade Shovel Pack" version="1.0.0.0" required="false" fileHash="1f132dd17218e4ce6d3439e1775996ee"/>
-    <mod modName="FS22_LongReachChainsaw" title="Long Reach Chainsaw" version="1.1.0.0" required="false" fileHash="c236fad0ed19a2867dab05b2423d97d2"/>
+    <mod modName="FS22_Lizard_MT" title="LIZARD Subsoiler 6MT/9MT" version="1.0.0.0" required="false" fileHash="3d4bfef4107423c09c50e761518af6c2"/>
     <mod modName="FS22_Lizard_TAC10500" title="Lizard TAC 10500" version="1.0.0.0" required="false" fileHash="f0f77eb6228dc6260e00e58cfbd14e07"/>
     <mod modName="FS22_paintAndTerraformAnywhere" title="Paint And Terraform Anywhere" version="1.0.0.0" required="false" fileHash="78ddd168268330dec7573e69f7d63755"/>
-    <mod modName="FS22_Magsi_Tool_Pack" title="Magsi Tool Pack" version="1.0.1.0" required="false" fileHash="a2e18e526d339e578cdefabe5c60f241"/>
+    <mod modName="FS22_Autoload_Belt" title="Grimme SL8022 Quantum And TC816 Autoload" version="1.0.0.0" required="false" fileHash="1df1eb13a45afb0d2de01582a541169f"/>
     <mod modName="FS22_MasseyFerguson_3600" title="Massey Ferguson 3600" version="1.0.0.0" required="false" fileHash="03be56f893b70191730556e292715197"/>
     <mod modName="FS22_Lizard_Bolko_Z643" title="Lizard Z-643 Bolko" version="1.0.0.0" required="false" fileHash="230f7162d967ba8b43e91d3f4b228cbe"/>
     <mod modName="FS22_MTZ1221" title="МТЗ-1221 Погрузчик" version="1.0.0.0" required="false" fileHash="0515c905665184aeee98ac017d8549be"/>

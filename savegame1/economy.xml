@@ -24,7 +24,7 @@
                 <period period="3">333</period>
                 <period period="4">316</period>
                 <period period="5">286</period>
-                <period period="6">273</period>
+                <period period="6">274</period>
                 <period period="7">289</period>
                 <period period="8">333</period>
                 <period period="9">363</period>
@@ -40,7 +40,7 @@
                 <period period="3">309</period>
                 <period period="4">294</period>
                 <period period="5">266</period>
-                <period period="6">254</period>
+                <period period="6">255</period>
                 <period period="7">269</period>
                 <period period="8">309</period>
                 <period period="9">338</period>
@@ -56,7 +56,7 @@
                 <period period="3">526</period>
                 <period period="4">500</period>
                 <period period="5">452</period>
-                <period period="6">433</period>
+                <period period="6">435</period>
                 <period period="7">457</period>
                 <period period="8">526</period>
                 <period period="9">574</period>
@@ -72,7 +72,7 @@
                 <period period="3">566</period>
                 <period period="4">512</period>
                 <period period="5">488</period>
-                <period period="6">525</period>
+                <period period="6">531</period>
                 <period period="7">596</period>
                 <period period="8">651</period>
                 <period period="9">681</period>
@@ -88,7 +88,7 @@
                 <period period="3">399</period>
                 <period period="4">365</period>
                 <period period="5">339</period>
-                <period period="6">341</period>
+                <period period="6">343</period>
                 <period period="7">369</period>
                 <period period="8">412</period>
                 <period period="9">464</period>
@@ -104,7 +104,7 @@
                 <period period="3">723</period>
                 <period period="4">663</period>
                 <period period="5">621</period>
-                <period period="6">562</period>
+                <period period="6">563</period>
                 <period period="7">524</period>
                 <period period="8">452</period>
                 <period period="9">506</period>
@@ -120,7 +120,7 @@
                 <period period="3">651</period>
                 <period period="4">723</period>
                 <period period="5">663</period>
-                <period period="6">625</period>
+                <period period="6">628</period>
                 <period period="7">560</period>
                 <period period="8">524</period>
                 <period period="9">452</period>
@@ -136,7 +136,7 @@
                 <period period="3">706</period>
                 <period period="4">585</period>
                 <period period="5">632</period>
-                <period period="6">673</period>
+                <period period="6">679</period>
                 <period period="7">740</period>
                 <period period="8">747</period>
                 <period period="9">713</period>
@@ -152,7 +152,7 @@
                 <period period="3">902</period>
                 <period period="4">1104</period>
                 <period period="5">1237</period>
-                <period period="6">875</period>
+                <period period="6">871</period>
                 <period period="7">676</period>
                 <period period="8">630</period>
                 <period period="9">599</period>
@@ -168,7 +168,7 @@
                 <period period="3">395</period>
                 <period period="4">433</period>
                 <period period="5">497</period>
-                <period period="6">374</period>
+                <period period="6">375</period>
                 <period period="7">334</period>
                 <period period="8">269</period>
                 <period period="9">231</period>
@@ -232,7 +232,7 @@
                 <period period="3">1277</period>
                 <period period="4">1277</period>
                 <period period="5">1151</period>
-                <period period="6">1121</period>
+                <period period="6">1117</period>
                 <period period="7">1089</period>
                 <period period="8">1277</period>
                 <period period="9">1277</period>
@@ -264,7 +264,7 @@
                 <period period="3">890</period>
                 <period period="4">845</period>
                 <period period="5">765</period>
-                <period period="6">727</period>
+                <period period="6">726</period>
                 <period period="7">773</period>
                 <period period="8">890</period>
                 <period period="9">972</period>
@@ -296,7 +296,7 @@
                 <period period="3">1212</period>
                 <period period="4">1118</period>
                 <period period="5">930</period>
-                <period period="6">849</period>
+                <period period="6">844</period>
                 <period period="7">761</period>
                 <period period="8">723</period>
                 <period period="9">799</period>
@@ -312,7 +312,7 @@
                 <period period="3">671</period>
                 <period period="4">629</period>
                 <period period="5">664</period>
-                <period period="6">665</period>
+                <period period="6">667</period>
                 <period period="7">720</period>
                 <period period="8">763</period>
                 <period period="9">686</period>
@@ -408,7 +408,7 @@
                 <period period="3">236</period>
                 <period period="4">195</period>
                 <period period="5">169</period>
-                <period period="6">171</period>
+                <period period="6">172</period>
                 <period period="7">198</period>
                 <period period="8">255</period>
                 <period period="9">364</period>
@@ -472,7 +472,7 @@
                 <period period="3">1000</period>
                 <period period="4">1000</period>
                 <period period="5">1000</period>
-                <period period="6">998</period>
+                <period period="6">999</period>
                 <period period="7">1000</period>
                 <period period="8">1000</period>
                 <period period="9">1000</period>
@@ -712,7 +712,7 @@
                 <period period="3">1504</period>
                 <period period="4">1428</period>
                 <period period="5">1292</period>
-                <period period="6">1236</period>
+                <period period="6">1240</period>
                 <period period="7">1307</period>
                 <period period="8">1504</period>
                 <period period="9">1641</period>
@@ -728,7 +728,7 @@
                 <period period="3">3167</period>
                 <period period="4">2969</period>
                 <period period="5">3134</period>
-                <period period="6">3145</period>
+                <period period="6">3155</period>
                 <period period="7">3398</period>
                 <period period="8">3597</period>
                 <period period="9">3234</period>
@@ -744,7 +744,7 @@
                 <period period="3">863</period>
                 <period period="4">809</period>
                 <period period="5">854</period>
-                <period period="6">857</period>
+                <period period="6">859</period>
                 <period period="7">926</period>
                 <period period="8">981</period>
                 <period period="9">881</period>
@@ -760,7 +760,7 @@
                 <period period="3">1727</period>
                 <period period="4">1619</period>
                 <period period="5">1709</period>
-                <period period="6">1714</period>
+                <period period="6">1719</period>
                 <period period="7">1853</period>
                 <period period="8">1962</period>
                 <period period="9">1763</period>
@@ -776,7 +776,7 @@
                 <period period="3">3869</period>
                 <period period="4">3570</period>
                 <period period="5">2970</period>
-                <period period="6">2713</period>
+                <period period="6">2698</period>
                 <period period="7">2430</period>
                 <period period="8">2309</period>
                 <period period="9">2550</period>
@@ -792,7 +792,7 @@
                 <period period="3">10319</period>
                 <period period="4">9520</period>
                 <period period="5">7920</period>
-                <period period="6">7222</period>
+                <period period="6">7171</period>
                 <period period="7">6480</period>
                 <period period="8">6159</period>
                 <period period="9">6800</period>
@@ -808,7 +808,7 @@
                 <period period="3">504</period>
                 <period period="4">504</period>
                 <period period="5">524</period>
-                <period period="6">519</period>
+                <period period="6">518</period>
                 <period period="7">524</period>
                 <period period="8">519</period>
                 <period period="9">509</period>
@@ -840,7 +840,7 @@
                 <period period="3">2255</period>
                 <period period="4">2349</period>
                 <period period="5">2208</period>
-                <period period="6">2385</period>
+                <period period="6">2374</period>
                 <period period="7">2138</period>
                 <period period="8">2373</period>
                 <period period="9">2279</period>
@@ -856,7 +856,7 @@
                 <period period="3">1868</period>
                 <period period="4">1548</period>
                 <period period="5">1673</period>
-                <period period="6">1773</period>
+                <period period="6">1860</period>
                 <period period="7">1958</period>
                 <period period="8">1975</period>
                 <period period="9">1886</period>
@@ -872,7 +872,7 @@
                 <period period="3">1541</period>
                 <period period="4">1394</period>
                 <period period="5">1328</period>
-                <period period="6">1420</period>
+                <period period="6">1492</period>
                 <period period="7">1623</period>
                 <period period="8">1771</period>
                 <period period="9">1853</period>
@@ -888,7 +888,7 @@
                 <period period="3">2635</period>
                 <period period="4">2928</period>
                 <period period="5">2684</period>
-                <period period="6">2509</period>
+                <period period="6">2555</period>
                 <period period="7">2269</period>
                 <period period="8">2122</period>
                 <period period="9">1830</period>
@@ -920,7 +920,7 @@
                 <period period="3">1679</period>
                 <period period="4">1584</period>
                 <period period="5">1504</period>
-                <period period="6">1583</period>
+                <period period="6">1582</period>
                 <period period="7">1631</period>
                 <period period="8">1679</period>
                 <period period="9">1728</period>
@@ -936,7 +936,7 @@
                 <period period="3">990</period>
                 <period period="4">980</period>
                 <period period="5">930</period>
-                <period period="6">978</period>
+                <period period="6">976</period>
                 <period period="7">910</period>
                 <period period="8">890</period>
                 <period period="9">970</period>
@@ -952,7 +952,7 @@
                 <period period="3">500</period>
                 <period period="4">495</period>
                 <period period="5">469</period>
-                <period period="6">493</period>
+                <period period="6">491</period>
                 <period period="7">460</period>
                 <period period="8">449</period>
                 <period period="9">490</period>
@@ -984,7 +984,7 @@
                 <period period="3">2079</period>
                 <period period="4">2160</period>
                 <period period="5">1879</period>
-                <period period="6">1841</period>
+                <period period="6">1842</period>
                 <period period="7">1899</period>
                 <period period="8">1820</period>
                 <period period="9">1919</period>
@@ -1000,7 +1000,7 @@
                 <period period="3">1325</period>
                 <period period="4">1351</period>
                 <period period="5">1429</period>
-                <period period="6">1335</period>
+                <period period="6">1333</period>
                 <period period="7">1312</period>
                 <period period="8">1260</period>
                 <period period="9">1234</period>
@@ -1016,7 +1016,7 @@
                 <period period="3">2039</period>
                 <period period="4">2079</period>
                 <period period="5">2200</period>
-                <period period="6">2058</period>
+                <period period="6">2057</period>
                 <period period="7">2019</period>
                 <period period="8">1940</period>
                 <period period="9">1899</period>
@@ -1352,7 +1352,7 @@
                 <period period="3">50</period>
                 <period period="4">50</period>
                 <period period="5">50</period>
-                <period period="6">49</period>
+                <period period="6">48</period>
                 <period period="7">50</period>
                 <period period="8">50</period>
                 <period period="9">50</period>
@@ -1768,7 +1768,7 @@
                 <period period="3">576</period>
                 <period period="4">558</period>
                 <period period="5">540</period>
-                <period period="6">540</period>
+                <period period="6">539</period>
                 <period period="7">558</period>
                 <period period="8">594</period>
                 <period period="9">629</period>
@@ -1784,7 +1784,7 @@
                 <period period="3">383</period>
                 <period period="4">372</period>
                 <period period="5">359</period>
-                <period period="6">359</period>
+                <period period="6">358</period>
                 <period period="7">372</period>
                 <period period="8">396</period>
                 <period period="9">419</period>
@@ -1800,7 +1800,7 @@
                 <period period="3">959</period>
                 <period period="4">930</period>
                 <period period="5">899</period>
-                <period period="6">899</period>
+                <period period="6">900</period>
                 <period period="7">930</period>
                 <period period="8">990</period>
                 <period period="9">1049</period>
@@ -1832,7 +1832,7 @@
                 <period period="3">147</period>
                 <period period="4">143</period>
                 <period period="5">138</period>
-                <period period="6">138</period>
+                <period period="6">137</period>
                 <period period="7">143</period>
                 <period period="8">152</period>
                 <period period="9">161</period>
@@ -1880,7 +1880,7 @@
                 <period period="3">232</period>
                 <period period="4">225</period>
                 <period period="5">217</period>
-                <period period="6">217</period>
+                <period period="6">216</period>
                 <period period="7">225</period>
                 <period period="8">239</period>
                 <period period="9">254</period>
@@ -1912,7 +1912,7 @@
                 <period period="3">57</period>
                 <period period="4">55</period>
                 <period period="5">53</period>
-                <period period="6">53</period>
+                <period period="6">52</period>
                 <period period="7">55</period>
                 <period period="8">59</period>
                 <period period="9">62</period>
@@ -1960,7 +1960,7 @@
                 <period period="3">117</period>
                 <period period="4">113</period>
                 <period period="5">109</period>
-                <period period="6">109</period>
+                <period period="6">108</period>
                 <period period="7">113</period>
                 <period period="8">120</period>
                 <period period="9">128</period>
@@ -2120,7 +2120,7 @@
                 <period period="3">1039</period>
                 <period period="4">998</period>
                 <period period="5">1039</period>
-                <period period="6">987</period>
+                <period period="6">982</period>
                 <period period="7">967</period>
                 <period period="8">1102</period>
                 <period period="9">1123</period>
@@ -2152,7 +2152,7 @@
                 <period period="3">1039</period>
                 <period period="4">998</period>
                 <period period="5">1039</period>
-                <period period="6">987</period>
+                <period period="6">985</period>
                 <period period="7">967</period>
                 <period period="8">1102</period>
                 <period period="9">1123</period>
@@ -2184,7 +2184,7 @@
                 <period period="3">1039</period>
                 <period period="4">998</period>
                 <period period="5">1039</period>
-                <period period="6">987</period>
+                <period period="6">984</period>
                 <period period="7">967</period>
                 <period period="8">1102</period>
                 <period period="9">1123</period>
@@ -2200,7 +2200,7 @@
                 <period period="3">1039</period>
                 <period period="4">998</period>
                 <period period="5">1039</period>
-                <period period="6">987</period>
+                <period period="6">985</period>
                 <period period="7">967</period>
                 <period period="8">1102</period>
                 <period period="9">1123</period>
@@ -2216,7 +2216,7 @@
                 <period period="3">1039</period>
                 <period period="4">998</period>
                 <period period="5">1039</period>
-                <period period="6">987</period>
+                <period period="6">985</period>
                 <period period="7">967</period>
                 <period period="8">1102</period>
                 <period period="9">1123</period>
@@ -2904,7 +2904,7 @@
                 <period period="3">159</period>
                 <period period="4">146</period>
                 <period period="5">135</period>
-                <period period="6">135</period>
+                <period period="6">134</period>
                 <period period="7">147</period>
                 <period period="8">165</period>
                 <period period="9">185</period>
@@ -2936,7 +2936,7 @@
                 <period period="3">261</period>
                 <period period="4">238</period>
                 <period period="5">221</period>
-                <period period="6">221</period>
+                <period period="6">222</period>
                 <period period="7">241</period>
                 <period period="8">269</period>
                 <period period="9">303</period>

@@ -1,4 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<items>
-    <item className="Bale" id="1" modName="FS22_MaizePlus" filename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml" position="90.07780456543 88.058906555176 9.3255100250244" rotation="-179.57313184621 5.6345013765522 -174.8932228307" valueScale="1.000000" fillLevel="450.000000" fillType="WETGRASS_WINDROW" farmId="1" isMissionBale="false" wrappingState="0.000000" wrappingColor="1 1 1 1"/>
-</items>
+<items/>
