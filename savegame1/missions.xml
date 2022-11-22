@@ -12,8 +12,4 @@
         <field id="15" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="149.103500" spawnedVehicles="false" growthState="8" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
         <harvest sellPointPlaceableId="16" unloadingStationIndex="1" expectedLiters="9952.658203" depositedLiters="0.000000"/>
     </mission>
-    <mission type="harvest" reward="709" status="0" success="false">
-        <field id="19" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="122.992996" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="0.500000" stubbleFactor="0.000000" fruitTypeName="OAT"/>
-        <harvest sellPointPlaceableId="16" unloadingStationIndex="1" expectedLiters="4988.312012" depositedLiters="0.000000"/>
-    </mission>
 </missions>
