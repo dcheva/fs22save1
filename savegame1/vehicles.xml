@@ -276,8 +276,8 @@
             <action name="lowerPickup" identifier="data/vehicles/masseyFerguson/baler1840/baler1840.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/locomotive04.xml" id="6" isAbsolute="true" age="0.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="17290.062500" selectedObjectIndex="5" subSelectedObjectIndex="1">
-        <component index="1" position="1575.5114746094 84.290344238281 471.55297851563" rotation="1.1013780355049 0.0017656001485133 0"/>
+    <vehicle modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/locomotive04.xml" id="6" isAbsolute="true" age="0.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="17529.052734" selectedObjectIndex="5" subSelectedObjectIndex="1">
+        <component index="1" position="1427.1594238281 114.89721679688 -1006.3181152344" rotation="1.0697111440786 12.535510216748 0"/>
         <configuration name="motor" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="motor" id="1"/>
@@ -290,8 +290,8 @@
         <drivable cruiseControl="80" cruiseControlReverse="80"/>
         <attacherJoints comboDirection="-1"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonGrain/wagonGrain.xml" id="7" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17289.785156">
-        <component index="1" position="1575.4986572266 84.653289794922 452.69921875" rotation="1.1090539941932 0.20710994523223 0"/>
+    <vehicle filename="data/vehicles/train/wagonGrain/wagonGrain.xml" id="7" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17528.775391">
+        <component index="1" position="1423.0051269531 115.2522277832 -1024.9108886719" rotation="1.0581426178936 12.867425820786 0"/>
         <configuration name="fillVolume" id="1"/>
         <configuration name="trailer" id="1"/>
         <configuration name="cover" id="1"/>
@@ -310,8 +310,8 @@
         <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
         <cover state="0"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" id="8" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17289.785156">
-        <component index="1" position="1575.4287109375 84.987548828125 435.44818115234" rotation="1.1156835465564 0.38784666244919 0"/>
+    <vehicle filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" id="8" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17528.775391">
+        <component index="1" position="1419.1514892578 115.5703125 -1041.7221679688" rotation="1.0470883836088 13.182802121748 0"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="trailer" id="1"/>
         <configuration name="fillVolume" id="1"/>
@@ -327,8 +327,8 @@
         </fillUnit>
         <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" id="9" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17289.785156">
-        <component index="1" position="1575.3035888672 85.325149536133 418.12823486328" rotation="1.1226091449314 0.58371901216584 0"/>
+    <vehicle filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" id="9" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17528.775391">
+        <component index="1" position="1415.1896972656 115.88623046875 -1058.5750732422" rotation="1.0335718661281 13.558065521353 0"/>
         <configuration name="fillVolume" id="1"/>
         <configuration name="trailer" id="1"/>
         <configuration name="cover" id="1"/>
@@ -347,8 +347,8 @@
         <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
         <cover state="0"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonTimber/wagonTimber.xml" id="10" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17289.785156">
-        <component index="1" position="1575.0705566406 85.754379272461 396.24462890625" rotation="1.130831625475 0.82100165156193 0"/>
+    <vehicle filename="data/vehicles/train/wagonTimber/wagonTimber.xml" id="10" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17528.775391">
+        <component index="1" position="1410.0180664063 116.28192138672 -1079.9323730469" rotation="1.0149985540625 14.064030567142 0"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -369,8 +369,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" id="11" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17289.751953">
-        <component index="1" position="1574.6691894531 86.289779663086 369.14721679688" rotation="1.1392785417659 1.0753557618191 0"/>
+    <vehicle filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" id="11" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="17528.742188">
+        <component index="1" position="1403.4060058594 116.76071166992 -1106.2000732422" rotation="0.99171977526717 14.686539130739 0"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
