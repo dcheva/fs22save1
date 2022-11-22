@@ -4,13 +4,6 @@
         <field id="23" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="65.559998" spawnedVehicles="false" growthState="9" limeFactor="1.000000" weedFactor="0.500000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
         <harvest sellPointPlaceableId="6" unloadingStationIndex="1" expectedLiters="2661.735840" depositedLiters="0.000000"/>
     </mission>
-    <mission type="fertilize" reward="1431" status="0" success="false">
-        <field id="32" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="253.272507" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="MAIZE"/>
-    </mission>
-    <mission type="harvest" reward="774" status="0" success="false">
-        <field id="24" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="27" vehicleUseCost="134.296494" spawnedVehicles="false" growthState="8" limeFactor="1.000000" weedFactor="0.250000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
-        <harvest sellPointPlaceableId="6" unloadingStationIndex="1" expectedLiters="8274.730469" depositedLiters="0.000000"/>
-    </mission>
     <mission type="harvest" reward="478" status="0" success="false">
         <field id="56" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="82.868500" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="0.250000" stubbleFactor="0.000000" fruitTypeName="OAT"/>
         <harvest sellPointPlaceableId="16" unloadingStationIndex="1" expectedLiters="3270.118408" depositedLiters="0.000000"/>
@@ -26,8 +19,5 @@
     <mission type="harvest" reward="709" status="0" success="false">
         <field id="19" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="122.992996" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="0.500000" stubbleFactor="0.000000" fruitTypeName="OAT"/>
         <harvest sellPointPlaceableId="16" unloadingStationIndex="1" expectedLiters="4988.312012" depositedLiters="0.000000"/>
-    </mission>
-    <mission type="cultivate" reward="741" status="0" success="false">
-        <field id="43" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="10" vehicleUseCost="128.511505" spawnedVehicles="false" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
     </mission>
 </missions>

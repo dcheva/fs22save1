@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="676431.375000">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="285865.125000">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/21 21:37" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/22 04:37" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <statistics>
-            <traveledDistance>7.295794</traveledDistance>
-            <fuelUsage>28.006910</fuelUsage>
+            <traveledDistance>12.872771</traveledDistance>
+            <fuelUsage>30.006931</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>0.000000</sprayUsage>
             <workedHectares>0.603450</workedHectares>
@@ -23,7 +23,7 @@
             <sprayedTime>0.000000</sprayedTime>
             <threshedTime>14.188199</threshedTime>
             <plowedTime>0.000000</plowedTime>
-            <baleCount>0</baleCount>
+            <baleCount>38</baleCount>
             <breedCowsCount>0</breedCowsCount>
             <breedSheepCount>0</breedSheepCount>
             <breedPigsCount>0</breedPigsCount>
@@ -34,7 +34,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>-999910.000000</playTime>
+            <playTime>-999831.250000</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -45,7 +45,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>7.295794</tractorDistance>
+            <tractorDistance>12.872771</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
@@ -54,13 +54,13 @@
         </statistics>
         <finances>
             <stats day="0">
-                <newVehiclesCost>-137499.000000</newVehiclesCost>
-                <soldVehicles>66169.000000</soldVehicles>
+                <newVehiclesCost>-240999.000000</newVehiclesCost>
+                <soldVehicles>112905.000000</soldVehicles>
                 <newAnimalsCost>-48200.000000</newAnimalsCost>
                 <soldAnimals>0.000000</soldAnimals>
-                <constructionCost>-166507.031250</constructionCost>
+                <constructionCost>-182963.234375</constructionCost>
                 <soldBuildings>58000.000000</soldBuildings>
-                <fieldPurchase>-58926.000000</fieldPurchase>
+                <fieldPurchase>-375414.000000</fieldPurchase>
                 <fieldSelling>13446.000000</fieldSelling>
                 <vehicleRunningCost>0.000000</vehicleRunningCost>
                 <vehicleLeasingCost>0.000000</vehicleLeasingCost>
@@ -83,7 +83,7 @@
                 <incomeBga>0.000000</incomeBga>
                 <missionIncome>0.000000</missionIncome>
                 <wagePayment>-42.186321</wagePayment>
-                <other>0.000000</other>
+                <other>-858.000000</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
         </finances>
