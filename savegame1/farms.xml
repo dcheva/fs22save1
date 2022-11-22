@@ -8,8 +8,8 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>18.879421</traveledDistance>
-            <fuelUsage>44.008335</fuelUsage>
+            <traveledDistance>19.982292</traveledDistance>
+            <fuelUsage>45.008339</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>0.000000</sprayUsage>
             <workedHectares>0.603450</workedHectares>
@@ -26,7 +26,7 @@
             <sprayedTime>0.000000</sprayedTime>
             <threshedTime>14.188199</threshedTime>
             <plowedTime>0.000000</plowedTime>
-            <baleCount>72</baleCount>
+            <baleCount>149</baleCount>
             <breedCowsCount>0</breedCowsCount>
             <breedSheepCount>0</breedSheepCount>
             <breedPigsCount>0</breedPigsCount>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.127094</expenses>
-            <playTime>-999772.687500</playTime>
+            <playTime>-999761.062500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>18.879421</tractorDistance>
+            <tractorDistance>19.982292</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
