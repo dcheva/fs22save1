@@ -109,7 +109,7 @@
         </sellingStation>
     </placeable>
     <placeable modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/trainSystem.xml" id="8" position="0 0 0" rotation="0 0 0" age="0.000000" price="1.000000" farmId="0" mapBoundId="trainSystem">
-        <trainSystem splineTime="0.399963" isRented="false" rentFarmId="0" currentPrice="0.000000">
+        <trainSystem splineTime="0.739062" isRented="false" rentFarmId="0" currentPrice="0.000000">
             <railroadVehicle vehicleId="6"/>
             <railroadVehicle vehicleId="7"/>
             <railroadVehicle vehicleId="8"/>
@@ -715,16 +715,22 @@
     <placeable modName="FS22_lsfmUniversalBaleStorage" filename="$moddir$FS22_lsfmUniversalBaleStorage/placeables/universalBaleStorage/universalBaleStorage10m.xml" id="62" position="64 87.797668457031 -6" rotation="0 90.000002504478 0" age="0.000000" price="80.000000" farmId="1">
         <FS22_ObjectStorage>
             <objectStorage>
-                <area numObjects="5" fillType="WETGRASS_WINDROW" defaultFilename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml"/>
+                <area numObjects="112" fillType="WETGRASS_WINDROW" defaultFilename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml"/>
             </objectStorage>
         </FS22_ObjectStorage>
     </placeable>
     <placeable modName="FS22_lsfmUniversalBaleStorage" filename="$moddir$FS22_lsfmUniversalBaleStorage/placeables/universalBaleStorage/universalBaleStorage10m.xml" id="63" position="63.5 87.797668457031 -16" rotation="0 270.00000068325 0" age="0.000000" price="80.000000" farmId="1">
         <FS22_ObjectStorage>
             <objectStorage>
-                <area numObjects="9" fillType="STRAW" defaultFilename="data/objects/squarebales/squarebale120.xml" commonFilename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml">
+                <area numObjects="38" fillType="STRAW" defaultFilename="data/objects/squarebales/squarebale120.xml" commonFilename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml">
                     <object filename="data/objects/squarebales/squarebale120.xml" index="1"/>
                     <object filename="data/objects/squarebales/squarebale120.xml" index="3"/>
+                    <object filename="data/objects/squarebales/squarebale120.xml" index="21"/>
+                    <object filename="data/objects/squarebales/squarebale120.xml" index="23"/>
+                    <object filename="data/objects/squarebales/squarebale120.xml" index="29"/>
+                    <object filename="data/objects/squarebales/squarebale120.xml" index="30"/>
+                    <object filename="data/objects/squarebales/squarebale120.xml" index="32"/>
+                    <object filename="data/objects/squarebales/squarebale120.xml" index="35"/>
                 </area>
             </objectStorage>
         </FS22_ObjectStorage>
