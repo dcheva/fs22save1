@@ -109,7 +109,7 @@
         </sellingStation>
     </placeable>
     <placeable modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/trainSystem.xml" id="8" position="0 0 0" rotation="0 0 0" age="0.000000" price="1.000000" farmId="0" mapBoundId="trainSystem">
-        <trainSystem splineTime="0.036456" isRented="false" rentFarmId="0" currentPrice="0.000000">
+        <trainSystem splineTime="0.059515" isRented="false" rentFarmId="0" currentPrice="0.000000">
             <railroadVehicle vehicleId="6"/>
             <railroadVehicle vehicleId="7"/>
             <railroadVehicle vehicleId="8"/>
@@ -563,10 +563,10 @@
         </husbandry>
         <husbandryAnimals>
             <clusters>
+                <animal subType="COW_ANGUS" numAnimals="10" age="12" health="0" reproduction="0"/>
+                <animal subType="COW_LIMOUSIN" numAnimals="10" age="12" health="0" reproduction="0"/>
                 <animal subType="COW_HOLSTEIN" numAnimals="10" age="12" health="0" reproduction="0"/>
                 <animal subType="COW_SWISS_BROWN" numAnimals="10" age="12" health="0" reproduction="0"/>
-                <animal subType="COW_LIMOUSIN" numAnimals="10" age="12" health="0" reproduction="0"/>
-                <animal subType="COW_ANGUS" numAnimals="10" age="12" health="0" reproduction="0"/>
             </clusters>
         </husbandryAnimals>
         <husbandryFood>

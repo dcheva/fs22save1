@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="127708.007813">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="118708.007813">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/22 05:13" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/22 06:47" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <handTools>
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.127094</expenses>
-            <playTime>-999723.625000</playTime>
+            <playTime>-999718.312500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -57,7 +57,7 @@
         </statistics>
         <finances>
             <stats day="0">
-                <newVehiclesCost>-387249.000000</newVehiclesCost>
+                <newVehiclesCost>-396249.000000</newVehiclesCost>
                 <soldVehicles>158644.000000</soldVehicles>
                 <newAnimalsCost>-48200.000000</newAnimalsCost>
                 <soldAnimals>0.000000</soldAnimals>
