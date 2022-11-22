@@ -3,5 +3,5 @@
     <player uniqueUserId="eHUpTFMcvr2hZVsHyz4yicQ3fQBZTYDzGC/yqEuGgmQ=" timeLastConnected="2022/11/22 05:13">
         <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots2" footwearConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="6" topConfigId="denimJacket" topConfigColor="1"/>
     </player>
-    <thirdPerson viewDistance="0.000000"/>
+    <thirdPerson viewDistance="-2.000000"/>
 </players>

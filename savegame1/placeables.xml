@@ -109,7 +109,7 @@
         </sellingStation>
     </placeable>
     <placeable modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/trainSystem.xml" id="8" position="0 0 0" rotation="0 0 0" age="0.000000" price="1.000000" farmId="0" mapBoundId="trainSystem">
-        <trainSystem splineTime="0.632463" isRented="false" rentFarmId="0" currentPrice="0.000000">
+        <trainSystem splineTime="0.230800" isRented="false" rentFarmId="0" currentPrice="0.000000">
             <railroadVehicle vehicleId="6"/>
             <railroadVehicle vehicleId="7"/>
             <railroadVehicle vehicleId="8"/>
@@ -712,4 +712,18 @@
     <placeable modName="FS22_animatedShedPack" filename="$moddir$FS22_animatedShedPack/seedHut/seedHut01.xml" id="59" position="-8.25 86.992218017578 -43.5" rotation="0 180.00000500896 0" age="0.000000" price="10000.000000" farmId="1"/>
     <placeable modName="FS22_RM_Subsidy" filename="$moddir$FS22_RM_Subsidy/governmentSubsidy.xml" id="60" position="4.3274612426758 87.015571594238 11.015548706055" rotation="0 0 0" age="0.000000" price="0.000000" farmId="1"/>
     <placeable modName="FS22_freefuel" filename="$moddir$FS22_freefuel/freefuel1.xml" id="61" position="14.168260574341 87.011672973633 -17.302543640137" rotation="0 0 0" age="0.000000" price="55500.000000" farmId="1"/>
+    <placeable modName="FS22_lsfmUniversalBaleStorage" filename="$moddir$FS22_lsfmUniversalBaleStorage/placeables/universalBaleStorage/universalBaleStorage10m.xml" id="62" position="64 87.797668457031 -6" rotation="0 90.000002504478 0" age="0.000000" price="80.000000" farmId="1">
+        <FS22_ObjectStorage>
+            <objectStorage>
+                <area numObjects="0" fillType="STRAW" defaultFilename="data/objects/roundbales/roundbale125.xml"/>
+            </objectStorage>
+        </FS22_ObjectStorage>
+    </placeable>
+    <placeable modName="FS22_lsfmUniversalBaleStorage" filename="$moddir$FS22_lsfmUniversalBaleStorage/placeables/universalBaleStorage/universalBaleStorage10m.xml" id="63" position="63.5 87.797668457031 -16" rotation="0 270.00000068325 0" age="0.000000" price="80.000000" farmId="1">
+        <FS22_ObjectStorage>
+            <objectStorage>
+                <area numObjects="0" fillType="STRAW" defaultFilename="data/objects/roundbales/roundbale125.xml"/>
+            </objectStorage>
+        </FS22_ObjectStorage>
+    </placeable>
 </placeables>
