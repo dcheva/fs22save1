@@ -109,7 +109,7 @@
         </sellingStation>
     </placeable>
     <placeable modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/trainSystem.xml" id="8" position="0 0 0" rotation="0 0 0" age="0.000000" price="1.000000" farmId="0" mapBoundId="trainSystem">
-        <trainSystem splineTime="0.739062" isRented="false" rentFarmId="0" currentPrice="0.000000">
+        <trainSystem splineTime="0.302465" isRented="false" rentFarmId="0" currentPrice="0.000000">
             <railroadVehicle vehicleId="6"/>
             <railroadVehicle vehicleId="7"/>
             <railroadVehicle vehicleId="8"/>
@@ -570,14 +570,14 @@
             </clusters>
         </husbandryAnimals>
         <husbandryFood>
-            <fillLevel fillType="SUGARBEET_CUT" fillLevel="1600.000000"/>
-            <fillLevel fillType="SILAGE" fillLevel="3200.000000"/>
-            <fillLevel fillType="DRYGRASS_WINDROW" fillLevel="10400.000000"/>
-            <fillLevel fillType="SLIDER04" fillLevel="800.000000"/>
-            <fillLevel fillType="SLIDER02" fillLevel="2400.000000"/>
-            <fillLevel fillType="SLIDER01" fillLevel="3200.000000"/>
-            <fillLevel fillType="MINERAL_FEED" fillLevel="800.000000"/>
-            <fillLevel fillType="SLIDER03" fillLevel="1600.000000"/>
+            <fillLevel fillType="SUGARBEET_CUT" fillLevel="3200.000000"/>
+            <fillLevel fillType="SILAGE" fillLevel="6400.000000"/>
+            <fillLevel fillType="DRYGRASS_WINDROW" fillLevel="12800.000000"/>
+            <fillLevel fillType="SLIDER04" fillLevel="1600.000000"/>
+            <fillLevel fillType="SLIDER02" fillLevel="4800.000000"/>
+            <fillLevel fillType="SLIDER01" fillLevel="6400.000000"/>
+            <fillLevel fillType="MINERAL_FEED" fillLevel="4900.000000"/>
+            <fillLevel fillType="SLIDER03" fillLevel="3200.000000"/>
         </husbandryFood>
         <FS22_realismAddon_animalGrazing>
             <realismAddon_animalGrazing>
@@ -715,7 +715,7 @@
     <placeable modName="FS22_lsfmUniversalBaleStorage" filename="$moddir$FS22_lsfmUniversalBaleStorage/placeables/universalBaleStorage/universalBaleStorage10m.xml" id="62" position="64 87.797668457031 -6" rotation="0 90.000002504478 0" age="0.000000" price="80.000000" farmId="1">
         <FS22_ObjectStorage>
             <objectStorage>
-                <area numObjects="112" fillType="WETGRASS_WINDROW" defaultFilename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml"/>
+                <area numObjects="120" fillType="WETGRASS_WINDROW" defaultFilename="$moddir$FS22_MaizePlus/data/bales/squarebale120/squarebale120.xml"/>
             </objectStorage>
         </FS22_ObjectStorage>
     </placeable>
