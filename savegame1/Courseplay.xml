@@ -5,7 +5,7 @@
         <GlobalSetting currentValue="70" name="autoRepair"/>
         <GlobalSetting currentValue="5" name="fuelThreshold"/>
         <GlobalSetting currentValue="100" name="brokenThreshold"/>
-        <GlobalSetting currentValue="45" name="maxDeltaAngleAtGoalDeg"/>
-        <GlobalSetting currentValue="10" name="deltaAngleRelaxFactorDeg"/>
+        <GlobalSetting currentValue="45" name="maxDeltaAngleAtGoal"/>
+        <GlobalSetting currentValue="10" name="deltaAngleRelaxFactor"/>
     </GlobalSettings>
 </Courseplay>

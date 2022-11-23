@@ -226,8 +226,8 @@
             <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="0.000000" vehicleCosts="0.000000" helperCosts="0.000000"/>
         </farmlandStatistic>
         <farmlandStatistic farmlandId="57">
-            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="25029.029297" yieldRegular="25029.029297" yieldWeight="11.263062" yieldBestPrice="500.580566" usedFuel="24.452564" vehicleCosts="109.001335" helperCosts="1156913.000000"/>
-            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="25029.029297" yieldRegular="25029.029297" yieldWeight="11.263062" yieldBestPrice="500.580566" usedFuel="24.452564" vehicleCosts="109.001335" helperCosts="1156913.000000"/>
+            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="25029.029297" yieldRegular="25029.029297" yieldWeight="11.263062" yieldBestPrice="500.580566" usedFuel="25.193478" vehicleCosts="113.857246" helperCosts="1156913.000000"/>
+            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="25029.029297" yieldRegular="25029.029297" yieldWeight="11.263062" yieldBestPrice="500.580566" usedFuel="25.193478" vehicleCosts="113.857246" helperCosts="1156913.000000"/>
         </farmlandStatistic>
         <farmlandStatistic farmlandId="58">
             <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="1.041493" vehicleCosts="0.167554" helperCosts="13.276979"/>
@@ -242,16 +242,16 @@
             <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="0.000000" vehicleCosts="0.000000" helperCosts="0.000000"/>
         </farmlandStatistic>
         <farmlandStatistic farmlandId="61">
-            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="35299.785156" yieldRegular="35298.925781" yieldWeight="15.884903" yieldBestPrice="705.995667" usedFuel="15.751563" vehicleCosts="57.797138" helperCosts="69.251602"/>
-            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="35299.785156" yieldRegular="35298.925781" yieldWeight="15.884903" yieldBestPrice="705.995667" usedFuel="15.751563" vehicleCosts="57.797138" helperCosts="69.251602"/>
+            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="35299.785156" yieldRegular="35298.925781" yieldWeight="15.884903" yieldBestPrice="705.995667" usedFuel="16.006538" vehicleCosts="58.151978" helperCosts="69.251602"/>
+            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="35299.785156" yieldRegular="35298.925781" yieldWeight="15.884903" yieldBestPrice="705.995667" usedFuel="16.006538" vehicleCosts="58.151978" helperCosts="69.251602"/>
         </farmlandStatistic>
         <farmlandStatistic farmlandId="62">
-            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="320.130554" yieldRegular="318.699493" yieldWeight="0.144059" yieldBestPrice="6.402611" usedFuel="14.052869" vehicleCosts="36.227097" helperCosts="125.133644"/>
-            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="320.130554" yieldRegular="318.699493" yieldWeight="0.144059" yieldBestPrice="6.402611" usedFuel="14.052869" vehicleCosts="36.227097" helperCosts="125.133644"/>
+            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="320.130554" yieldRegular="318.699493" yieldWeight="0.144059" yieldBestPrice="6.402611" usedFuel="14.176178" vehicleCosts="36.459660" helperCosts="125.133644"/>
+            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="320.130554" yieldRegular="318.699493" yieldWeight="0.144059" yieldBestPrice="6.402611" usedFuel="14.176178" vehicleCosts="36.459660" helperCosts="125.133644"/>
         </farmlandStatistic>
         <farmlandStatistic farmlandId="63">
-            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="2.507509" vehicleCosts="12.802022" helperCosts="0.000000"/>
-            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="2.507509" vehicleCosts="12.802022" helperCosts="0.000000"/>
+            <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="3.919465" vehicleCosts="13.607207" helperCosts="0.000000"/>
+            <totalCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="3.919465" vehicleCosts="13.607207" helperCosts="0.000000"/>
         </farmlandStatistic>
         <farmlandStatistic farmlandId="64">
             <periodCounter numSoilSamples="0" soilSampleCosts="0.000000" usedLime="0.000000" usedLimeRegular="0.000000" usedMineralFertilizer="0.000000" usedMineralFertilizerRegular="0.000000" usedLiquidFertilizer="0.000000" usedLiquidFertilizerRegular="0.000000" usedManure="0.000000" usedManureRegular="0.000000" usedLiquidManure="0.000000" usedLiquidManureRegular="0.000000" usedSeeds="0.000000" usedSeedsRegular="0.000000" usedHerbicide="0.000000" usedHerbicideRegular="0.000000" yield="0.000000" yieldRegular="0.000000" yieldWeight="0.000000" yieldBestPrice="0.000000" usedFuel="0.000000" vehicleCosts="0.000000" helperCosts="0.000000"/>
@@ -448,10 +448,10 @@
             <farmland farmlandId="3" harvestedArea="0.000000" nOffsetSum="0.000000" pendingReset="false"/>
             <farmland farmlandId="63" harvestedArea="0.000000" nOffsetSum="0.000000" pendingReset="false"/>
             <farmland farmlandId="20" harvestedArea="0.015125" nOffsetSum="-0.000197" pendingReset="false"/>
-            <farmland farmlandId="62" harvestedArea="0.347768" nOffsetSum="-0.000331" pendingReset="false"/>
+            <farmland farmlandId="61" harvestedArea="47.845009" nOffsetSum="-0.526177" pendingReset="false"/>
             <farmland farmlandId="17" harvestedArea="0.000000" nOffsetSum="0.000000" pendingReset="false"/>
             <farmland farmlandId="27" harvestedArea="0.000000" nOffsetSum="0.000000" pendingReset="false"/>
-            <farmland farmlandId="61" harvestedArea="47.845009" nOffsetSum="-0.526177" pendingReset="false"/>
+            <farmland farmlandId="62" harvestedArea="0.347768" nOffsetSum="-0.000331" pendingReset="false"/>
             <farmland farmlandId="57" harvestedArea="33.787849" nOffsetSum="-0.419759" pendingReset="false"/>
         </nitrogen>
         <ph>
@@ -459,46 +459,46 @@
             <farmland farmlandId="3" harvestedArea="0.000000" phOffsetSum="0.000000" pendingReset="false"/>
             <farmland farmlandId="63" harvestedArea="0.000000" phOffsetSum="0.000000" pendingReset="false"/>
             <farmland farmlandId="20" harvestedArea="0.015125" phOffsetSum="-0.000106" pendingReset="false"/>
-            <farmland farmlandId="62" harvestedArea="0.347768" phOffsetSum="-0.002087" pendingReset="false"/>
+            <farmland farmlandId="61" harvestedArea="47.845009" phOffsetSum="-0.287937" pendingReset="false"/>
             <farmland farmlandId="17" harvestedArea="0.000000" phOffsetSum="0.000000" pendingReset="false"/>
             <farmland farmlandId="27" harvestedArea="0.000000" phOffsetSum="0.000000" pendingReset="false"/>
-            <farmland farmlandId="61" harvestedArea="47.845009" phOffsetSum="-0.287937" pendingReset="false"/>
+            <farmland farmlandId="62" harvestedArea="0.347768" phOffsetSum="-0.002087" pendingReset="false"/>
             <farmland farmlandId="57" harvestedArea="33.787849" phOffsetSum="-0.227098" pendingReset="false"/>
         </ph>
         <herbicide>
             <farmland farmlandId="2" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
             <farmland farmlandId="3" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
-            <farmland farmlandId="63" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
             <farmland farmlandId="62" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
+            <farmland farmlandId="61" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
             <farmland farmlandId="17" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
             <farmland farmlandId="27" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
-            <farmland farmlandId="61" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
+            <farmland farmlandId="63" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
             <farmland farmlandId="57" spotSpray="0.000000" fullSpray="0.000000" mechanical="0.000000" pendingReset="false"/>
         </herbicide>
         <soilSample>
             <farmland farmlandId="2" samplePercentage="-1.000000"/>
             <farmland farmlandId="3" samplePercentage="-1.000000"/>
-            <farmland farmlandId="63" samplePercentage="-1.000000"/>
             <farmland farmlandId="62" samplePercentage="-1.000000"/>
+            <farmland farmlandId="61" samplePercentage="-1.000000"/>
             <farmland farmlandId="17" samplePercentage="-1.000000"/>
             <farmland farmlandId="27" samplePercentage="-1.000000"/>
-            <farmland farmlandId="61" samplePercentage="-1.000000"/>
+            <farmland farmlandId="63" samplePercentage="-1.000000"/>
             <farmland farmlandId="57" samplePercentage="-1.000000"/>
         </soilSample>
         <tillage>
             <farmland farmlandId="2"/>
             <farmland farmlandId="3"/>
-            <farmland farmlandId="63"/>
             <farmland farmlandId="62"/>
+            <farmland farmlandId="61"/>
             <farmland farmlandId="17"/>
             <farmland farmlandId="27"/>
-            <farmland farmlandId="61"/>
+            <farmland farmlandId="63"/>
             <farmland farmlandId="57"/>
         </tillage>
         <harvestedStates>
-            <harvestedState farmlandId="62" state="1"/>
             <harvestedState farmlandId="61" state="1"/>
             <harvestedState farmlandId="97" state="1"/>
+            <harvestedState farmlandId="62" state="1"/>
             <harvestedState farmlandId="57" state="1"/>
         </harvestedStates>
     </environmentalScore>
