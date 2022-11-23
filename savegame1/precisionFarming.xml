@@ -444,21 +444,21 @@
     </farmlandStatistics>
     <environmentalScore>
         <nitrogen>
-            <farmland farmlandId="20" harvestedArea="0.015125" nOffsetSum="-0.000197" pendingReset="false"/>
             <farmland farmlandId="62" harvestedArea="0.347768" nOffsetSum="-0.000331" pendingReset="false"/>
             <farmland farmlandId="61" harvestedArea="47.845009" nOffsetSum="-0.526177" pendingReset="false"/>
+            <farmland farmlandId="20" harvestedArea="0.015125" nOffsetSum="-0.000197" pendingReset="false"/>
             <farmland farmlandId="57" harvestedArea="33.787849" nOffsetSum="-0.419759" pendingReset="false"/>
         </nitrogen>
         <ph>
-            <farmland farmlandId="20" harvestedArea="0.015125" phOffsetSum="-0.000106" pendingReset="false"/>
             <farmland farmlandId="62" harvestedArea="0.347768" phOffsetSum="-0.002087" pendingReset="false"/>
             <farmland farmlandId="61" harvestedArea="47.845009" phOffsetSum="-0.287937" pendingReset="false"/>
+            <farmland farmlandId="20" harvestedArea="0.015125" phOffsetSum="-0.000106" pendingReset="false"/>
             <farmland farmlandId="57" harvestedArea="33.787849" phOffsetSum="-0.227098" pendingReset="false"/>
         </ph>
         <harvestedStates>
-            <harvestedState farmlandId="97" state="1"/>
             <harvestedState farmlandId="62" state="1"/>
             <harvestedState farmlandId="61" state="1"/>
+            <harvestedState farmlandId="97" state="1"/>
             <harvestedState farmlandId="57" state="1"/>
         </harvestedStates>
     </environmentalScore>
