@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>176992</money>
+        <money>175242</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1177"/>
+    <slotSystem slotUsage="1180"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -196,8 +196,8 @@
     <mod modName="FS22_storeDeliveries" title="Store Deliveries" version="1.5.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.0" required="false" fileHash="nil"/>
     <mod modName="FS12_MTZ_1221_RAT" title="МТЗ 1221" version="1.0.0.2" required="false" fileHash="nil"/>
-    <mod modName="FS22_quadTransport" title="Quad Transport" version="1.0.0.0" required="false" fileHash="1d8198bd3517e809e03eefbc856542d1"/>
     <mod modName="FS22_MasseyFerguson_SmallClassics" title="Massey Ferguson Small Classics" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_quadTransport" title="Quad Transport" version="1.0.0.0" required="false" fileHash="1d8198bd3517e809e03eefbc856542d1"/>
     <mod modName="FS19_HTZ_T150_i" title="Т-150К" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Bavarian_Farm_Pack" title="Bavarian Farm Pack" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_AdjustableWeight" title="Adjustable Weight" version="1.0.0.0" required="false" fileHash="nil"/>
