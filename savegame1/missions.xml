@@ -4,8 +4,4 @@
         <field id="23" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="65.559998" spawnedVehicles="false" growthState="9" limeFactor="1.000000" weedFactor="0.500000" stubbleFactor="0.000000" fruitTypeName="CANOLA"/>
         <harvest sellPointPlaceableId="6" unloadingStationIndex="1" expectedLiters="2661.735840" depositedLiters="0.000000"/>
     </mission>
-    <mission type="harvest" reward="478" status="0" success="false">
-        <field id="56" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="82.868500" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="0.250000" stubbleFactor="0.000000" fruitTypeName="OAT"/>
-        <harvest sellPointPlaceableId="16" unloadingStationIndex="1" expectedLiters="3270.118408" depositedLiters="0.000000"/>
-    </mission>
 </missions>
