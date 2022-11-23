@@ -114,74 +114,7 @@
             <wheel3 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
             <wheel4 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
-        <zzzVehicleControlAddon lastSnapAngle="1.570796" lastSnapPosX="58.621792" lastSnapPosZ="-21.925480" snapAngle="1" snapDistance="5.000000"/>
-        <FS22_Courseplay>
-            <cpVehicleSettings>
-                <settings currentValue="1" name="showCourse"/>
-                <settings currentValue="true" name="openHudWithMouse"/>
-                <settings currentValue="true" name="fuelSave"/>
-                <settings currentValue="true" name="turnOnField"/>
-                <settings currentValue="true" name="avoidFruit"/>
-                <settings currentValue="true" name="allowReversePathfinding"/>
-                <settings currentValue="false" name="allowPathfinderTurns"/>
-                <settings currentValue="true" name="foldImplementAtEnd"/>
-                <settings currentValue="false" name="raiseImplementLate"/>
-                <settings currentValue="false" name="lowerImplementEarly"/>
-                <settings currentValue="-1.8790524691781e-14" name="toolOffsetX"/>
-                <settings currentValue="false" name="useAdditiveFillUnit"/>
-                <settings currentValue="false" name="stopForUnload"/>
-                <settings currentValue="false" name="selfUnload"/>
-                <settings currentValue="true" name="unloadOnFirstHeadland"/>
-                <settings currentValue="2" name="strawSwath"/>
-                <settings currentValue="false" name="ridgeMarkersAutomatic"/>
-                <settings currentValue="true" name="sowingMachineFertilizerEnabled"/>
-                <settings currentValue="false" name="optionalSowingMachineEnabled"/>
-                <settings currentValue="false" name="symmetricLaneChange"/>
-                <settings currentValue="75" name="convoyDistance"/>
-                <settings currentValue="25" name="fieldWorkSpeed"/>
-                <settings currentValue="20" name="fieldSpeed"/>
-                <settings currentValue="8" name="turnSpeed"/>
-                <settings currentValue="5" name="reverseSpeed"/>
-                <settings currentValue="false" name="debugActive"/>
-            </cpVehicleSettings>
-            <cpCourseGeneratorSettings>
-                <settings currentValue="5" name="workWidth"/>
-                <settings currentValue="1" name="multiTools"/>
-                <settings currentValue="0" name="numberOfHeadlands"/>
-                <settings currentValue="1" name="startOnHeadland"/>
-                <settings currentValue="1" name="headlandCornerType"/>
-                <settings currentValue="1" name="isClockwise"/>
-                <settings currentValue="7" name="headlandOverlapPercent"/>
-                <settings currentValue="1" name="centerMode"/>
-                <settings currentValue="5" name="rowDirection"/>
-                <settings currentValue="0" name="rowsToSkip"/>
-                <settings currentValue="6" name="rowsPerLand"/>
-                <settings currentValue="0" name="manualRowAngleDeg"/>
-                <settings currentValue="3" name="islandBypassMode"/>
-                <settings currentValue="2.1649348980191e-15" name="fieldMargin"/>
-                <vineSettings currentValue="0" name="vineCenterOffset"/>
-                <vineSettings currentValue="1" name="vineMultiTools"/>
-                <vineSettings currentValue="0" name="vineRowsToSkip"/>
-            </cpCourseGeneratorSettings>
-            <cpAIFieldWorker>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="3" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJobStartAtLastWp>
-            </cpAIFieldWorker>
-            <cpAIBaleFinder>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJobStartAtLastWp>
-            </cpAIBaleFinder>
-        </FS22_Courseplay>
+        <zzzVehicleControlAddon lastSnapAngle="1.0" snapAngle="1.0" />
         <AIVehicleExtension acAreaRight="true"/>
         <actionController lastDirection="-1" numActions="3">
             <action name="turnOn" identifier="data/vehicles/rostselmash/nova330/nova330.xml" lastDirection="-1"/>
@@ -620,74 +553,7 @@
             <wheel3 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
             <wheel4 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
-        <zzzVehicleControlAddon lastSnapAngle="1.570796" lastSnapPosX="-164.976929" lastSnapPosZ="96.568321" workAreaDraw="1" snapDistance="5.100000"/>
-        <FS22_Courseplay>
-            <cpVehicleSettings>
-                <settings currentValue="1" name="showCourse"/>
-                <settings currentValue="true" name="openHudWithMouse"/>
-                <settings currentValue="true" name="fuelSave"/>
-                <settings currentValue="true" name="turnOnField"/>
-                <settings currentValue="true" name="avoidFruit"/>
-                <settings currentValue="true" name="allowReversePathfinding"/>
-                <settings currentValue="false" name="allowPathfinderTurns"/>
-                <settings currentValue="true" name="foldImplementAtEnd"/>
-                <settings currentValue="false" name="raiseImplementLate"/>
-                <settings currentValue="false" name="lowerImplementEarly"/>
-                <settings currentValue="-1.8790524691781e-14" name="toolOffsetX"/>
-                <settings currentValue="false" name="useAdditiveFillUnit"/>
-                <settings currentValue="false" name="stopForUnload"/>
-                <settings currentValue="false" name="selfUnload"/>
-                <settings currentValue="true" name="unloadOnFirstHeadland"/>
-                <settings currentValue="2" name="strawSwath"/>
-                <settings currentValue="false" name="ridgeMarkersAutomatic"/>
-                <settings currentValue="true" name="sowingMachineFertilizerEnabled"/>
-                <settings currentValue="false" name="optionalSowingMachineEnabled"/>
-                <settings currentValue="false" name="symmetricLaneChange"/>
-                <settings currentValue="75" name="convoyDistance"/>
-                <settings currentValue="25" name="fieldWorkSpeed"/>
-                <settings currentValue="20" name="fieldSpeed"/>
-                <settings currentValue="8" name="turnSpeed"/>
-                <settings currentValue="5" name="reverseSpeed"/>
-                <settings currentValue="false" name="debugActive"/>
-            </cpVehicleSettings>
-            <cpCourseGeneratorSettings>
-                <settings currentValue="5.1" name="workWidth"/>
-                <settings currentValue="1" name="multiTools"/>
-                <settings currentValue="0" name="numberOfHeadlands"/>
-                <settings currentValue="1" name="startOnHeadland"/>
-                <settings currentValue="1" name="headlandCornerType"/>
-                <settings currentValue="1" name="isClockwise"/>
-                <settings currentValue="7" name="headlandOverlapPercent"/>
-                <settings currentValue="1" name="centerMode"/>
-                <settings currentValue="5" name="rowDirection"/>
-                <settings currentValue="0" name="rowsToSkip"/>
-                <settings currentValue="6" name="rowsPerLand"/>
-                <settings currentValue="0" name="manualRowAngleDeg"/>
-                <settings currentValue="3" name="islandBypassMode"/>
-                <settings currentValue="2.1649348980191e-15" name="fieldMargin"/>
-                <vineSettings currentValue="0" name="vineCenterOffset"/>
-                <vineSettings currentValue="1" name="vineMultiTools"/>
-                <vineSettings currentValue="0" name="vineRowsToSkip"/>
-            </cpCourseGeneratorSettings>
-            <cpAIFieldWorker>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="3" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJobStartAtLastWp>
-            </cpAIFieldWorker>
-            <cpAIBaleFinder>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJobStartAtLastWp>
-            </cpAIBaleFinder>
-        </FS22_Courseplay>
+        <zzzVehicleControlAddon lastSnapAngle="1.0" snapAngle="1.0" />
         <actionController lastDirection="-1" numActions="1">
             <action name="cropSensorTurnOn" identifier="D:/Documents/My Games/FarmingSimulator2022/mods/FS22_Fendt500Favorit/favorit500.xml" lastDirection="-1"/>
         </actionController>
@@ -794,73 +660,6 @@
             <wheel4 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
         <zzzVehicleControlAddon snapDistance="1.000000"/>
-        <FS22_Courseplay>
-            <cpVehicleSettings>
-                <settings currentValue="1" name="showCourse"/>
-                <settings currentValue="true" name="openHudWithMouse"/>
-                <settings currentValue="true" name="fuelSave"/>
-                <settings currentValue="true" name="turnOnField"/>
-                <settings currentValue="true" name="avoidFruit"/>
-                <settings currentValue="true" name="allowReversePathfinding"/>
-                <settings currentValue="false" name="allowPathfinderTurns"/>
-                <settings currentValue="true" name="foldImplementAtEnd"/>
-                <settings currentValue="false" name="raiseImplementLate"/>
-                <settings currentValue="false" name="lowerImplementEarly"/>
-                <settings currentValue="-1.8790524691781e-14" name="toolOffsetX"/>
-                <settings currentValue="false" name="useAdditiveFillUnit"/>
-                <settings currentValue="false" name="stopForUnload"/>
-                <settings currentValue="false" name="selfUnload"/>
-                <settings currentValue="true" name="unloadOnFirstHeadland"/>
-                <settings currentValue="2" name="strawSwath"/>
-                <settings currentValue="false" name="ridgeMarkersAutomatic"/>
-                <settings currentValue="true" name="sowingMachineFertilizerEnabled"/>
-                <settings currentValue="false" name="optionalSowingMachineEnabled"/>
-                <settings currentValue="false" name="symmetricLaneChange"/>
-                <settings currentValue="75" name="convoyDistance"/>
-                <settings currentValue="25" name="fieldWorkSpeed"/>
-                <settings currentValue="20" name="fieldSpeed"/>
-                <settings currentValue="8" name="turnSpeed"/>
-                <settings currentValue="5" name="reverseSpeed"/>
-                <settings currentValue="false" name="debugActive"/>
-            </cpVehicleSettings>
-            <cpCourseGeneratorSettings>
-                <settings currentValue="1" name="workWidth"/>
-                <settings currentValue="1" name="multiTools"/>
-                <settings currentValue="0" name="numberOfHeadlands"/>
-                <settings currentValue="1" name="startOnHeadland"/>
-                <settings currentValue="1" name="headlandCornerType"/>
-                <settings currentValue="1" name="isClockwise"/>
-                <settings currentValue="7" name="headlandOverlapPercent"/>
-                <settings currentValue="1" name="centerMode"/>
-                <settings currentValue="5" name="rowDirection"/>
-                <settings currentValue="0" name="rowsToSkip"/>
-                <settings currentValue="6" name="rowsPerLand"/>
-                <settings currentValue="0" name="manualRowAngleDeg"/>
-                <settings currentValue="3" name="islandBypassMode"/>
-                <settings currentValue="2.1649348980191e-15" name="fieldMargin"/>
-                <vineSettings currentValue="0" name="vineCenterOffset"/>
-                <vineSettings currentValue="1" name="vineMultiTools"/>
-                <vineSettings currentValue="0" name="vineRowsToSkip"/>
-            </cpCourseGeneratorSettings>
-            <cpAIFieldWorker>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="3" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJobStartAtLastWp>
-            </cpAIFieldWorker>
-            <cpAIBaleFinder>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJobStartAtLastWp>
-            </cpAIBaleFinder>
-        </FS22_Courseplay>
     </vehicle>
     <vehicle modName="FS22_MF3690A" filename="$moddir$FS22_MF3690A/series3690.xml" id="19" isAbsolute="true" age="0.000000" price="115000.000000" farmId="1" propertyState="1" operatingTime="4474.132324" selectedObjectIndex="2" subSelectedObjectIndex="1">
         <component index="1" position="79.340133666992 87.689682006836 15.253920555115" rotation="-179.44637719559 1.750817714834 -179.52742422028"/>
@@ -923,74 +722,7 @@
             <wheel3 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
             <wheel4 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
-        <zzzVehicleControlAddon snapAngle="1" snapDistance="6.200000"/>
-        <FS22_Courseplay>
-            <cpVehicleSettings>
-                <settings currentValue="1" name="showCourse"/>
-                <settings currentValue="true" name="openHudWithMouse"/>
-                <settings currentValue="true" name="fuelSave"/>
-                <settings currentValue="true" name="turnOnField"/>
-                <settings currentValue="true" name="avoidFruit"/>
-                <settings currentValue="true" name="allowReversePathfinding"/>
-                <settings currentValue="false" name="allowPathfinderTurns"/>
-                <settings currentValue="true" name="foldImplementAtEnd"/>
-                <settings currentValue="false" name="raiseImplementLate"/>
-                <settings currentValue="false" name="lowerImplementEarly"/>
-                <settings currentValue="-1.8790524691781e-14" name="toolOffsetX"/>
-                <settings currentValue="false" name="useAdditiveFillUnit"/>
-                <settings currentValue="false" name="stopForUnload"/>
-                <settings currentValue="false" name="selfUnload"/>
-                <settings currentValue="true" name="unloadOnFirstHeadland"/>
-                <settings currentValue="2" name="strawSwath"/>
-                <settings currentValue="false" name="ridgeMarkersAutomatic"/>
-                <settings currentValue="true" name="sowingMachineFertilizerEnabled"/>
-                <settings currentValue="false" name="optionalSowingMachineEnabled"/>
-                <settings currentValue="false" name="symmetricLaneChange"/>
-                <settings currentValue="75" name="convoyDistance"/>
-                <settings currentValue="25" name="fieldWorkSpeed"/>
-                <settings currentValue="20" name="fieldSpeed"/>
-                <settings currentValue="8" name="turnSpeed"/>
-                <settings currentValue="5" name="reverseSpeed"/>
-                <settings currentValue="false" name="debugActive"/>
-            </cpVehicleSettings>
-            <cpCourseGeneratorSettings>
-                <settings currentValue="6.2" name="workWidth"/>
-                <settings currentValue="1" name="multiTools"/>
-                <settings currentValue="0" name="numberOfHeadlands"/>
-                <settings currentValue="1" name="startOnHeadland"/>
-                <settings currentValue="1" name="headlandCornerType"/>
-                <settings currentValue="1" name="isClockwise"/>
-                <settings currentValue="7" name="headlandOverlapPercent"/>
-                <settings currentValue="1" name="centerMode"/>
-                <settings currentValue="5" name="rowDirection"/>
-                <settings currentValue="0" name="rowsToSkip"/>
-                <settings currentValue="6" name="rowsPerLand"/>
-                <settings currentValue="0" name="manualRowAngleDeg"/>
-                <settings currentValue="3" name="islandBypassMode"/>
-                <settings currentValue="2.1649348980191e-15" name="fieldMargin"/>
-                <vineSettings currentValue="0" name="vineCenterOffset"/>
-                <vineSettings currentValue="1" name="vineMultiTools"/>
-                <vineSettings currentValue="0" name="vineRowsToSkip"/>
-            </cpCourseGeneratorSettings>
-            <cpAIFieldWorker>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="3" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJobStartAtLastWp>
-            </cpAIFieldWorker>
-            <cpAIBaleFinder>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJobStartAtLastWp>
-            </cpAIBaleFinder>
-        </FS22_Courseplay>
+        <zzzVehicleControlAddon lastSnapAngle="1.0" snapAngle="1.0" />
         <AIVehicleExtension acAreaRight="true"/>
         <actionController lastDirection="-1" numActions="3">
             <action name="lower" identifier="D:/Documents/My Games/FarmingSimulator2022/mods/FS22_Lizard_MT/Lizard_MT.xml" lastDirection="-1"/>
@@ -1149,74 +881,7 @@
             <wheel3 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
             <wheel4 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
-        <zzzVehicleControlAddon lastSnapAngle="0.000000" lastSnapPosX="-238.840439" lastSnapPosZ="-26.533398" snapDistance="3.000000"/>
-        <FS22_Courseplay>
-            <cpVehicleSettings>
-                <settings currentValue="1" name="showCourse"/>
-                <settings currentValue="true" name="openHudWithMouse"/>
-                <settings currentValue="true" name="fuelSave"/>
-                <settings currentValue="true" name="turnOnField"/>
-                <settings currentValue="true" name="avoidFruit"/>
-                <settings currentValue="true" name="allowReversePathfinding"/>
-                <settings currentValue="false" name="allowPathfinderTurns"/>
-                <settings currentValue="true" name="foldImplementAtEnd"/>
-                <settings currentValue="false" name="raiseImplementLate"/>
-                <settings currentValue="false" name="lowerImplementEarly"/>
-                <settings currentValue="-1.8790524691781e-14" name="toolOffsetX"/>
-                <settings currentValue="false" name="useAdditiveFillUnit"/>
-                <settings currentValue="false" name="stopForUnload"/>
-                <settings currentValue="false" name="selfUnload"/>
-                <settings currentValue="true" name="unloadOnFirstHeadland"/>
-                <settings currentValue="2" name="strawSwath"/>
-                <settings currentValue="false" name="ridgeMarkersAutomatic"/>
-                <settings currentValue="true" name="sowingMachineFertilizerEnabled"/>
-                <settings currentValue="false" name="optionalSowingMachineEnabled"/>
-                <settings currentValue="false" name="symmetricLaneChange"/>
-                <settings currentValue="75" name="convoyDistance"/>
-                <settings currentValue="25" name="fieldWorkSpeed"/>
-                <settings currentValue="20" name="fieldSpeed"/>
-                <settings currentValue="8" name="turnSpeed"/>
-                <settings currentValue="5" name="reverseSpeed"/>
-                <settings currentValue="false" name="debugActive"/>
-            </cpVehicleSettings>
-            <cpCourseGeneratorSettings>
-                <settings currentValue="2.9" name="workWidth"/>
-                <settings currentValue="1" name="multiTools"/>
-                <settings currentValue="0" name="numberOfHeadlands"/>
-                <settings currentValue="1" name="startOnHeadland"/>
-                <settings currentValue="1" name="headlandCornerType"/>
-                <settings currentValue="1" name="isClockwise"/>
-                <settings currentValue="7" name="headlandOverlapPercent"/>
-                <settings currentValue="1" name="centerMode"/>
-                <settings currentValue="5" name="rowDirection"/>
-                <settings currentValue="0" name="rowsToSkip"/>
-                <settings currentValue="6" name="rowsPerLand"/>
-                <settings currentValue="0" name="manualRowAngleDeg"/>
-                <settings currentValue="3" name="islandBypassMode"/>
-                <settings currentValue="2.1649348980191e-15" name="fieldMargin"/>
-                <vineSettings currentValue="0" name="vineCenterOffset"/>
-                <vineSettings currentValue="1" name="vineMultiTools"/>
-                <vineSettings currentValue="0" name="vineRowsToSkip"/>
-            </cpCourseGeneratorSettings>
-            <cpAIFieldWorker>
-                <cpJob>
-                    <cpJobParameters currentValue="2" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="3" name="startAt"/>
-                    <cpJobParameters currentValue="0" name="laneOffset"/>
-                </cpJobStartAtLastWp>
-            </cpAIFieldWorker>
-            <cpAIBaleFinder>
-                <cpJob>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJob>
-                <cpJobStartAtLastWp>
-                    <cpJobParameters currentValue="1" name="baleWrapType"/>
-                </cpJobStartAtLastWp>
-            </cpAIBaleFinder>
-        </FS22_Courseplay>
+        <zzzVehicleControlAddon lastSnapAngle="1.0" snapAngle="1.0" />
         <AIVehicleExtension acAreaRight="true"/>
         <actionController lastDirection="-1" numActions="1">
             <action name="turnOn" identifier="D:/Documents/My Games/FarmingSimulator2022/mods/FS22_StoneBucket/285.xml" lastDirection="-1"/>
