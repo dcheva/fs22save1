@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>175099</money>
+        <money>123089</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1180"/>
+    <slotSystem slotUsage="1190"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -67,7 +67,7 @@
     <mod modName="FS22_hudToggle" title="HUD Toggle" version="1.2.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Impress_185VC_Pro" title="Impress 185VC Pro by Cheva" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_GrimmePack" title="Grimme Pack" version="1.0.0.1" required="false" fileHash="nil"/>
+    <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.1.0.0" required="false" fileHash="49bfa385ca90594408a7f75db8783578"/>
     <mod modName="FS22_KPS_4_N" title="КПС-4Н" version="1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Kramer_KL30_8T" title="Kramer KL30.8T" version="1.0.0.1" required="false" fileHash="nil"/>
     <mod modName="FS22_kverneland753C" title="Kverneland Taarup TA 753C" version="1.0.0.0" required="false" fileHash="nil"/>
@@ -208,7 +208,7 @@
     <mod modName="FS22_freefuel" title="Free Fuel" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_fuelStation" title="Fuel Station" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_FuelStorage" title="Fuel Tank" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.1.0.0" required="false" fileHash="824b01df5f17a1693811eeea47376932"/>
+    <mod modName="FS22_Fuel_Gallon" title="Fuel Gallon" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_GL860_MultiPlanter" title="GL860 Multi Planter" version="1.0.1.1" required="false" fileHash="nil"/>
     <mod modName="FS22_GrimmeGL430" title="Grimme GL 430" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="pdlc_agiPack" title="AGI Pack" version="1.1.0.0" required="false" fileHash="1e34e6da3250471b406a092063173ec0"/>
@@ -218,9 +218,9 @@
     <mod modName="FS22_VehicleCameraAutoZoom" title="Vehicle Camera AutoZoom" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_terraFelis3Evo" title="Holmer Terra Felis 3 Evo" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Sugar_mill_byproducts" title="Sugar Mill With By Products" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_Fuel_Gallon" title="Fuel Gallon" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.1.0.0" required="false" fileHash="49bfa385ca90594408a7f75db8783578"/>
+    <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.1.0.0" required="false" fileHash="824b01df5f17a1693811eeea47376932"/>
     <mod modName="FS22_Lizard_TAC10500" title="Lizard TAC 10500" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_K700_crossplay" title="K-700" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Impress_125F_Pro" title="Impress 125F Pro by Cheva" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_GrimmePack" title="Grimme Pack" version="1.0.0.1" required="false" fileHash="nil"/>
 </careerSavegame>
