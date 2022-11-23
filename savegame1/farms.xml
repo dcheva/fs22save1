@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="175107.718750">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="175106.703125">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/23 06:01" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
@@ -8,11 +8,11 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>41.943733</traveledDistance>
-            <fuelUsage>74.010078</fuelUsage>
+            <traveledDistance>43.221825</traveledDistance>
+            <fuelUsage>77.010345</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>0.000000</sprayUsage>
-            <workedHectares>2.203875</workedHectares>
+            <workedHectares>2.204825</workedHectares>
             <cultivatedHectares>0.000000</cultivatedHectares>
             <sownHectares>0.000000</sownHectares>
             <sprayedHectares>0.000000</sprayedHectares>
@@ -20,7 +20,7 @@
             <plowedHectares>1.593675</plowedHectares>
             <harvestedGrapes>0.000000</harvestedGrapes>
             <harvestedOlives>0.000000</harvestedOlives>
-            <workedTime>12.832806</workedTime>
+            <workedTime>12.854325</workedTime>
             <cultivatedTime>0.000000</cultivatedTime>
             <sownTime>0.000000</sownTime>
             <sprayedTime>0.000000</sprayedTime>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.781680</expenses>
-            <playTime>-999452.937500</playTime>
+            <playTime>-999446.812500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>41.943733</tractorDistance>
+            <tractorDistance>43.221825</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
@@ -85,7 +85,7 @@
                 <harvestIncome>1191.298950</harvestIncome>
                 <incomeBga>0.000000</incomeBga>
                 <missionIncome>0.000000</missionIncome>
-                <wagePayment>-761.956604</wagePayment>
+                <wagePayment>-762.966980</wagePayment>
                 <other>-8241.428711</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
