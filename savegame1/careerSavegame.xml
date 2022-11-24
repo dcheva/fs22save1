@@ -8,7 +8,7 @@
         <saveDateFormatted>25/11/2022</saveDateFormatted>
         <saveDate>2022-11-25</saveDate>
         <resetVehicles>false</resetVehicles>
-        <trafficEnabled>true</trafficEnabled>
+        <trafficEnabled>false</trafficEnabled>
         <stopAndGoBraking>true</stopAndGoBraking>
         <trailerFillLimit>true</trailerFillLimit>
         <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
@@ -51,16 +51,16 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>355617</money>
+        <money>314708</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1215"/>
+    <slotSystem slotUsage="1228"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
     <mod modName="FS22_Fendt500Favorit" title="Fendt 500 Favorit" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.1.0.0" required="false" fileHash="49bfa385ca90594408a7f75db8783578"/>
-    <mod modName="FS22_MasseyFerguson100" title="Massey Ferguson 100 Series" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="pdlc_eroPack" title="ERO Grapeliner Series 7000" version="1.0.0.0" required="false" fileHash="4fb071c73b67044650ed003f0323462e"/>
     <mod modName="FS22_MasseyFerguson_3600" title="Massey Ferguson 3600" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_MasseyFerguson_SmallClassics" title="Massey Ferguson Small Classics" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_MBtrac1100_1800_fs22planet" title="MB trac 1100-1800" version="2.0.0.6" required="false" fileHash="nil"/>
@@ -181,7 +181,7 @@
     <mod modName="FS19_HTZ_T150_i" title="Т-150К" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_WoodenShelters" title="Wooden Shelters" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_VAZ2106" title="VAZ 2106" version="1.0" required="false" fileHash="nil"/>
-    <mod modName="pdlc_eroPack" title="ERO Grapeliner Series 7000" version="1.0.0.0" required="false" fileHash="4fb071c73b67044650ed003f0323462e"/>
+    <mod modName="FS22_MasseyFerguson100" title="Massey Ferguson 100 Series" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.1.0.0" required="false" fileHash="824b01df5f17a1693811eeea47376932"/>
     <mod modName="FS22_freefuel" title="Free Fuel" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22noCollisionCamera" title="No Collision Camera" version="17.0.3" required="false" fileHash="nil"/>
