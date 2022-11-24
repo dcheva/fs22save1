@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>120857</money>
+        <money>57157</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1190"/>
+    <slotSystem slotUsage="1200"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -128,7 +128,7 @@
     <mod modName="FS22_WaterHydrant" title="Water Hydrant" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_FieldCreator" title="Field Creator" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Fliegl_DPW_180_Squarebale_Autoload_BAFM" title="Fliegl DPW 180 Squarebale Autoload" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_Workshop" title="Small Stational Workshop Trailer" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_freefuel" title="Free Fuel" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_fuelStation" title="Fuel Station" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_FuelStorage" title="Fuel Tank" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Fuel_Gallon" title="Fuel Gallon" version="1.0.0.0" required="false" fileHash="nil"/>
@@ -183,7 +183,7 @@
     <mod modName="FS22_VAZ2106" title="VAZ 2106" version="1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_MasseyFerguson100" title="Massey Ferguson 100 Series" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.1.0.0" required="false" fileHash="824b01df5f17a1693811eeea47376932"/>
-    <mod modName="FS22_freefuel" title="Free Fuel" version="1.0.1.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_Workshop" title="Small Stational Workshop Trailer" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22noCollisionCamera" title="No Collision Camera" version="17.0.3" required="false" fileHash="nil"/>
     <mod modName="FS22_3rdPerson" title="3rd Person" version="1.5.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_4cylMokrzynByZiomsoN" title="Ursus 4cyl Mokrzyn" version="1.1.0.0" required="false" fileHash="nil"/>
