@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="447914.031250">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="426164.031250">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/25 13:34" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-999149.812500</playTime>
+            <playTime>-999131.937500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -61,10 +61,10 @@
                 <soldVehicles>296974.000000</soldVehicles>
                 <newAnimalsCost>-48200.000000</newAnimalsCost>
                 <soldAnimals>0.000000</soldAnimals>
-                <constructionCost>-812101.375000</constructionCost>
+                <constructionCost>-872101.375000</constructionCost>
                 <soldBuildings>58260.000000</soldBuildings>
                 <fieldPurchase>-1259592.000000</fieldPurchase>
-                <fieldSelling>124866.000000</fieldSelling>
+                <fieldSelling>163116.000000</fieldSelling>
                 <vehicleRunningCost>-2.848925</vehicleRunningCost>
                 <vehicleLeasingCost>0.000000</vehicleLeasingCost>
                 <propertyMaintenance>0.000000</propertyMaintenance>
