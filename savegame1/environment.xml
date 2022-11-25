@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <environment>
-    <dayTime>1121.956543</dayTime>
+    <dayTime>1147.482544</dayTime>
     <currentDay>6</currentDay>
     <currentMonotonicDay>6</currentMonotonicDay>
-    <realHourTimer>966377</realHourTimer>
+    <realHourTimer>3034828</realHourTimer>
     <daysPerPeriod>1</daysPerPeriod>
-    <weather timeSinceLastRain="800">
+    <weather timeSinceLastRain="825">
         <forecast>
-            <instance durationLeft="5.117392" typeName="SUN" variationIndex="1" duration="8.000000" season="1"/>
+            <instance durationLeft="4.691958" typeName="SUN" variationIndex="1" duration="8.000000" season="1"/>
             <instance typeName="RAIN" variationIndex="1" duration="3.000000" season="2"/>
             <instance typeName="CLOUDY" variationIndex="3" duration="5.000000" season="2"/>
             <instance typeName="CLOUDY" variationIndex="4" duration="10.000000" season="2"/>
