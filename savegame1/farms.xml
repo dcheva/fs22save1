@@ -2,7 +2,7 @@
 <farms>
     <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="264675.968750">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/25 00:21" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/25 07:37" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <handTools>
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-999250.625000</playTime>
+            <playTime>-999239.937500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
