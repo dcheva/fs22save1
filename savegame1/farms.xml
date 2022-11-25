@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="263766.531250">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="106208.523438">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/25 07:37" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-999215.000000</playTime>
+            <playTime>-999209.625000</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -63,8 +63,8 @@
                 <soldAnimals>0.000000</soldAnimals>
                 <constructionCost>-271620.187500</constructionCost>
                 <soldBuildings>58260.000000</soldBuildings>
-                <fieldPurchase>-375414.000000</fieldPurchase>
-                <fieldSelling>13446.000000</fieldSelling>
+                <fieldPurchase>-1144392.000000</fieldPurchase>
+                <fieldSelling>124866.000000</fieldSelling>
                 <vehicleRunningCost>-2.848925</vehicleRunningCost>
                 <vehicleLeasingCost>0.000000</vehicleLeasingCost>
                 <propertyMaintenance>0.000000</propertyMaintenance>
@@ -86,7 +86,7 @@
                 <incomeBga>0.000000</incomeBga>
                 <missionIncome>0.000000</missionIncome>
                 <wagePayment>-796.062317</wagePayment>
-                <other>-13229.678711</other>
+                <other>486770.312500</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
         </finances>
