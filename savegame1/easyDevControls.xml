@@ -2,11 +2,11 @@
 <easyDevControls type="RELEASE" version="1.3.0.1" buildId="1.500000">
     <settings>
         <general>
-            <toggleHudInputEnabled>false</toggleHudInputEnabled>
+            <toggleHudInputEnabled>true</toggleHudInputEnabled>
             <timeScaleCustomSettingsActive>false</timeScaleCustomSettingsActive>
         </general>
         <player>
-            <maxRunningSpeedInputActive>false</maxRunningSpeedInputActive>
+            <maxRunningSpeedInputActive>true</maxRunningSpeedInputActive>
             <maxRunningSpeedMultiplier>4</maxRunningSpeedMultiplier>
             <jumpHeight>1</jumpHeight>
         </player>
