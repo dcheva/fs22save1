@@ -5,8 +5,8 @@
     <item timeLeft="28" isGenerated="true" xmlFilename="C:/Games/Farming Simulator 22/pdlc/forestryPack/vehicles/kotschenreuther/k300R/k300R.xml" age="31" price="151007" damage="0.411632" wear="0.367918" operatingTime="75477.945313">
         <boughtConfiguration name="winch" id="2"/>
         <boughtConfiguration name="attacherJoint" id="3"/>
-        <boughtConfiguration name="folding" id="3"/>
         <boughtConfiguration name="usedComponents" id="2"/>
+        <boughtConfiguration name="folding" id="3"/>
     </item>
     <item timeLeft="10" isGenerated="true" xmlFilename="data/vehicles/fendt/vario700/vario700.xml" age="25" price="76003" damage="0.215159" wear="0.752010" operatingTime="79887.656250"/>
     <item timeLeft="31" isGenerated="true" xmlFilename="data/vehicles/lodeKing/distinctionTripleHopper/distinctionTripleHopper.xml" age="9" price="46197" damage="0.595328" wear="0.258248" operatingTime="29309.398438">
