@@ -8,20 +8,20 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>62.711208</traveledDistance>
-            <fuelUsage>106.012901</fuelUsage>
+            <traveledDistance>63.404179</traveledDistance>
+            <fuelUsage>108.013046</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>6328.299805</sprayUsage>
-            <workedHectares>3.956825</workedHectares>
-            <cultivatedHectares>0.177725</cultivatedHectares>
+            <workedHectares>4.043375</workedHectares>
+            <cultivatedHectares>0.264275</cultivatedHectares>
             <sownHectares>0.000000</sownHectares>
             <sprayedHectares>1.542500</sprayedHectares>
             <threshedHectares>0.603450</threshedHectares>
             <plowedHectares>1.593675</plowedHectares>
             <harvestedGrapes>0.000000</harvestedGrapes>
             <harvestedOlives>0.000000</harvestedOlives>
-            <workedTime>20.613049</workedTime>
-            <cultivatedTime>3.144590</cultivatedTime>
+            <workedTime>20.908455</workedTime>
+            <cultivatedTime>4.847882</cultivatedTime>
             <sownTime>0.000000</sownTime>
             <sprayedTime>6.471147</sprayedTime>
             <threshedTime>14.188199</threshedTime>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-999265.875000</playTime>
+            <playTime>-999262.687500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>62.711208</tractorDistance>
+            <tractorDistance>63.404179</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
