@@ -8,11 +8,11 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>78.518410</traveledDistance>
-            <fuelUsage>123.014328</fuelUsage>
+            <traveledDistance>79.642990</traveledDistance>
+            <fuelUsage>125.014465</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>6328.299805</sprayUsage>
-            <workedHectares>4.420850</workedHectares>
+            <workedHectares>4.440550</workedHectares>
             <cultivatedHectares>0.594725</cultivatedHectares>
             <sownHectares>0.000000</sownHectares>
             <sprayedHectares>1.542500</sprayedHectares>
@@ -20,7 +20,7 @@
             <plowedHectares>1.593675</plowedHectares>
             <harvestedGrapes>0.000000</harvestedGrapes>
             <harvestedOlives>0.000000</harvestedOlives>
-            <workedTime>23.408113</workedTime>
+            <workedTime>23.822262</workedTime>
             <cultivatedTime>10.465087</cultivatedTime>
             <sownTime>0.000000</sownTime>
             <sprayedTime>6.471147</sprayedTime>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-999099.187500</playTime>
+            <playTime>-999094.687500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>78.518410</tractorDistance>
+            <tractorDistance>79.642990</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
