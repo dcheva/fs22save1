@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>329994</money>
+        <money>437856</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1276"/>
+    <slotSystem slotUsage="1268"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -211,7 +211,7 @@
     <mod modName="FS22_RealMower" title="Real Mower" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_realismAddon_animalGrazing" title="RealismAddon: AnimalGrazing" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_realDirtFix" title="Real Dirt Fix" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_Sugar_mill_byproducts" title="Sugar Mill With By Products" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_SeedPotatoFarmBuildings" title="Seedpotato Farm Buildings Pack" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_BDM_Palettenpack_fs22planet" title="BDM Pallet Pack" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_UndergroundGrainStorage" title="Underfloor Storage For Bulk Materials Or Liquids" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS19_HTZ_T150_i" title="Т-150К" version="1.0.0.0" required="false" fileHash="nil"/>
@@ -225,6 +225,6 @@
     <mod modName="FS22_FollowMe" title="Follow Me" version="1.0.0.0" required="false" fileHash="38826c29e4b53efc6453b81e28835e50"/>
     <mod modName="pdlc_agiPack" title="AGI Pack" version="1.1.0.0" required="false" fileHash="1e34e6da3250471b406a092063173ec0"/>
     <mod modName="FS22_BrantnerTA16051XXL" title="Brantner TA 16051 XXL" version="1.0.1.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_SeedPotatoFarmBuildings" title="Seedpotato Farm Buildings Pack" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_Sugar_mill_byproducts" title="Sugar Mill With By Products" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_stoneCrushing_limeProduction" title="Stone Crushing Lime Production" version="1.1.0.0" required="false" fileHash="3a17e82918fff7314ceb672e2dd336ac"/>
 </careerSavegame>
