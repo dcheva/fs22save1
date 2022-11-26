@@ -8,22 +8,22 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>95.784203</traveledDistance>
-            <fuelUsage>152.018326</fuelUsage>
-            <seedUsage>141.360001</seedUsage>
+            <traveledDistance>97.288910</traveledDistance>
+            <fuelUsage>157.018951</fuelUsage>
+            <seedUsage>201.612503</seedUsage>
             <sprayUsage>6394.486328</sprayUsage>
-            <workedHectares>5.877725</workedHectares>
+            <workedHectares>6.480250</workedHectares>
             <cultivatedHectares>0.594725</cultivatedHectares>
-            <sownHectares>1.413600</sownHectares>
-            <sprayedHectares>2.715900</sprayedHectares>
+            <sownHectares>2.016125</sownHectares>
+            <sprayedHectares>3.179650</sprayedHectares>
             <threshedHectares>0.603450</threshedHectares>
             <plowedHectares>1.593675</plowedHectares>
             <harvestedGrapes>0.000000</harvestedGrapes>
             <harvestedOlives>0.000000</harvestedOlives>
-            <workedTime>43.616596</workedTime>
+            <workedTime>51.462891</workedTime>
             <cultivatedTime>10.465087</cultivatedTime>
-            <sownTime>12.059274</sownTime>
-            <sprayedTime>31.440247</sprayedTime>
+            <sownTime>17.276106</sownTime>
+            <sprayedTime>42.097263</sprayedTime>
             <threshedTime>14.188199</threshedTime>
             <plowedTime>19.250414</plowedTime>
             <baleCount>159</baleCount>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-998994.375000</playTime>
+            <playTime>-998986.500000</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>95.784203</tractorDistance>
+            <tractorDistance>97.288910</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
