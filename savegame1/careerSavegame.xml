@@ -16,7 +16,7 @@
         <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
         <fruitDestruction>false</fruitDestruction>
         <plowingRequiredEnabled>true</plowingRequiredEnabled>
-        <stonesEnabled>true</stonesEnabled>
+        <stonesEnabled>false</stonesEnabled>
         <weedsEnabled>true</weedsEnabled>
         <limeRequired>true</limeRequired>
         <isSnowEnabled>true</isSnowEnabled>
@@ -51,7 +51,7 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>328356</money>
+        <money>346320</money>
         <playTime>0.000000</playTime>
     </statistics>
     <slotSystem slotUsage="1293"/>

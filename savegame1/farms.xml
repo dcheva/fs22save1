@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="328356.156250">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="346320.156250">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/26 03:02" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
@@ -8,22 +8,22 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>90.888603</traveledDistance>
-            <fuelUsage>140.016708</fuelUsage>
-            <seedUsage>0.000000</seedUsage>
-            <sprayUsage>6328.299805</sprayUsage>
-            <workedHectares>4.464125</workedHectares>
+            <traveledDistance>92.855042</traveledDistance>
+            <fuelUsage>143.017197</fuelUsage>
+            <seedUsage>11.377500</seedUsage>
+            <sprayUsage>6359.221680</sprayUsage>
+            <workedHectares>4.577900</workedHectares>
             <cultivatedHectares>0.594725</cultivatedHectares>
-            <sownHectares>0.000000</sownHectares>
-            <sprayedHectares>1.542500</sprayedHectares>
+            <sownHectares>0.113775</sownHectares>
+            <sprayedHectares>1.631525</sprayedHectares>
             <threshedHectares>0.603450</threshedHectares>
             <plowedHectares>1.593675</plowedHectares>
             <harvestedGrapes>0.000000</harvestedGrapes>
             <harvestedOlives>0.000000</harvestedOlives>
-            <workedTime>24.323532</workedTime>
+            <workedTime>25.693443</workedTime>
             <cultivatedTime>10.465087</cultivatedTime>
-            <sownTime>0.000000</sownTime>
-            <sprayedTime>6.471147</sprayedTime>
+            <sownTime>0.907632</sownTime>
+            <sprayedTime>8.324190</sprayedTime>
             <threshedTime>14.188199</threshedTime>
             <plowedTime>19.250414</plowedTime>
             <baleCount>159</baleCount>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>2.848925</expenses>
-            <playTime>-999024.125000</playTime>
+            <playTime>-999012.312500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>90.888603</tractorDistance>
+            <tractorDistance>92.855042</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
@@ -64,7 +64,7 @@
                 <constructionCost>-26142.792969</constructionCost>
                 <soldBuildings>0.000000</soldBuildings>
                 <fieldPurchase>0.000000</fieldPurchase>
-                <fieldSelling>0.000000</fieldSelling>
+                <fieldSelling>21996.000000</fieldSelling>
                 <vehicleRunningCost>0.000000</vehicleRunningCost>
                 <vehicleLeasingCost>0.000000</vehicleLeasingCost>
                 <propertyMaintenance>0.000000</propertyMaintenance>
@@ -86,7 +86,7 @@
                 <incomeBga>0.000000</incomeBga>
                 <missionIncome>0.000000</missionIncome>
                 <wagePayment>0.000000</wagePayment>
-                <other>100000.000000</other>
+                <other>95968.000000</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
             <stats day="1">
