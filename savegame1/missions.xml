@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <missions>
     <mission type="harvest" reward="2500" status="0" success="false">
-        <field id="4" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="23" vehicleUseCost="135.440506" growthState="6" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
+        <field id="4" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="23" vehicleUseCost="135.440506" spawnedVehicles="false" growthState="6" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
         <harvest sellPointPlaceableId="68" unloadingStationIndex="1" expectedLiters="83905.390625" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="2323" status="0" success="false">
+        <field id="55" sprayFactor="1.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="11" vehicleUseCost="125.872498" growthState="6" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
+        <harvest sellPointPlaceableId="68" unloadingStationIndex="1" expectedLiters="77978.015625" depositedLiters="0.000000"/>
     </mission>
 </missions>

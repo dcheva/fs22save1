@@ -55,7 +55,7 @@
     <farmland id="53" farmId="0"/>
     <farmland id="54" farmId="1"/>
     <farmland id="55" farmId="1"/>
-    <farmland id="56" farmId="0"/>
+    <farmland id="56" farmId="1"/>
     <farmland id="57" farmId="1"/>
     <farmland id="58" farmId="0"/>
     <farmland id="59" farmId="0"/>
@@ -91,11 +91,11 @@
     <farmland id="89" farmId="0"/>
     <farmland id="90" farmId="0"/>
     <farmland id="91" farmId="0"/>
-    <farmland id="92" farmId="1"/>
+    <farmland id="92" farmId="0"/>
     <farmland id="93" farmId="0"/>
     <farmland id="94" farmId="0"/>
     <farmland id="95" farmId="0"/>
-    <farmland id="96" farmId="1"/>
+    <farmland id="96" farmId="0"/>
     <farmland id="97" farmId="0"/>
     <farmland id="98" farmId="0"/>
     <farmland id="99" farmId="0"/>
