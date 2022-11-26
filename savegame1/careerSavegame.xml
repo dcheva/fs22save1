@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>232109</money>
+        <money>161404</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1321"/>
+    <slotSystem slotUsage="1339"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -140,7 +140,7 @@
     <mod modName="FS22_terraFelis3Evo" title="Holmer Terra Felis 3 Evo" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_terraDosT4_40" title="Holmer Terra Dos T4-40" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_WaterHydrant" title="Water Hydrant" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_UndergroundGrainStorage" title="Underfloor Storage For Bulk Materials Or Liquids" version="1.0.0.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_aPalletAutoLoader" title="Автопогрузка" version="1.8.6.0" required="false" fileHash="nil"/>
     <mod modName="FS22_MasseyFerguson_SmallClassics" title="Massey Ferguson Small Classics" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_SlipDestroysFields" title="Пробуксовка Разрушает Поля" version="1.0.0.2" required="false" fileHash="nil"/>
     <mod modName="FS22_SchuitemakerSIWA720" title="Schuitemaker SIWA 720" version="1.0.0.0" required="false" fileHash="nil"/>
@@ -169,7 +169,7 @@
     <mod modName="FS22_Amkar_45" title="Амкар45" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Animal_Food_BigBag" title="Animal Food BigBags" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_animatedShedPack" title="Animated Shed Pack" version="1.1.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_aPalletAutoLoader" title="Автопогрузка" version="1.8.6.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_UndergroundGrainStorage" title="Underfloor Storage For Bulk Materials Or Liquids" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Autoload_Belt" title="Grimme SL8022 Quantum And TC816 Autoload" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_autonomousCaseIH" title="Case IH Autonomous" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_BandeiranteVirtuos1300" title="Bandeirante Virtuos 1300" version="1.0.0.0" required="false" fileHash="nil"/>

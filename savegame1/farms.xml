@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="232109.562500">
+    <farm farmId="1" name="Covans" color="1" loan="500000.000000" money="161404.656250">
         <players>
             <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2022/11/26 12:28" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
@@ -8,23 +8,23 @@
             <handTool filename="data/firstPerson/chainsaws/mcCulloch/mcCullochCS410.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>106.830132</traveledDistance>
-            <fuelUsage>176.021332</fuelUsage>
+            <traveledDistance>108.821503</traveledDistance>
+            <fuelUsage>186.022934</fuelUsage>
             <seedUsage>210.592499</seedUsage>
             <sprayUsage>17134.208984</sprayUsage>
-            <workedHectares>9.720249</workedHectares>
+            <workedHectares>9.899625</workedHectares>
             <cultivatedHectares>0.594725</cultivatedHectares>
             <sownHectares>2.105925</sownHectares>
             <sprayedHectares>6.177475</sprayedHectares>
-            <threshedHectares>0.838100</threshedHectares>
+            <threshedHectares>1.017475</threshedHectares>
             <plowedHectares>1.593675</plowedHectares>
             <harvestedGrapes>0.000000</harvestedGrapes>
             <harvestedOlives>0.000000</harvestedOlives>
-            <workedTime>73.807594</workedTime>
+            <workedTime>74.330849</workedTime>
             <cultivatedTime>10.465087</cultivatedTime>
             <sownTime>18.953682</sownTime>
             <sprayedTime>59.626637</sprayedTime>
-            <threshedTime>18.601440</threshedTime>
+            <threshedTime>20.950146</threshedTime>
             <plowedTime>19.250414</plowedTime>
             <baleCount>159</baleCount>
             <breedCowsCount>0</breedCowsCount>
@@ -36,8 +36,8 @@
             <fieldJobMissionByNPC>0</fieldJobMissionByNPC>
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
-            <expenses>2.848925</expenses>
-            <playTime>-998916.375000</playTime>
+            <expenses>4.453670</expenses>
+            <playTime>-998893.937500</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>1</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>106.830132</tractorDistance>
+            <tractorDistance>108.821503</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
@@ -61,11 +61,11 @@
                 <soldVehicles>46912.000000</soldVehicles>
                 <newAnimalsCost>0.000000</newAnimalsCost>
                 <soldAnimals>0.000000</soldAnimals>
-                <constructionCost>-103779.578125</constructionCost>
-                <soldBuildings>2250.000000</soldBuildings>
+                <constructionCost>-207482.875000</constructionCost>
+                <soldBuildings>35250.000000</soldBuildings>
                 <fieldPurchase>-63000.000000</fieldPurchase>
                 <fieldSelling>143082.000000</fieldSelling>
-                <vehicleRunningCost>0.000000</vehicleRunningCost>
+                <vehicleRunningCost>-1.604745</vehicleRunningCost>
                 <vehicleLeasingCost>0.000000</vehicleLeasingCost>
                 <propertyMaintenance>0.000000</propertyMaintenance>
                 <propertyIncome>0.000000</propertyIncome>
