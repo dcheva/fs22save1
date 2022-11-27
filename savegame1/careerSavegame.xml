@@ -14,7 +14,7 @@
         <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
         <growthMode>1</growthMode>
         <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
-        <fruitDestruction>false</fruitDestruction>
+        <fruitDestruction>true</fruitDestruction>
         <plowingRequiredEnabled>true</plowingRequiredEnabled>
         <stonesEnabled>true</stonesEnabled>
         <weedsEnabled>true</weedsEnabled>
@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>161404</money>
+        <money>235697</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1339"/>
+    <slotSystem slotUsage="1317"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
