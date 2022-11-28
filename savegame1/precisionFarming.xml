@@ -561,16 +561,16 @@
             <farmland farmlandId="63" totalFieldArea="7728.000000" workedAreaNone="0.000000" workedAreaDeep="0.000000" workedAreaFlat="86.750000" workedAreaDirect="7641.500000"/>
             <farmland farmlandId="92"/>
             <farmland farmlandId="104"/>
-            <farmland farmlandId="107"/>
             <farmland farmlandId="65" totalFieldArea="4768.000000" workedAreaNone="4764.500000" workedAreaDeep="0.000000" workedAreaFlat="3.500000" workedAreaDirect="0.000000"/>
+            <farmland farmlandId="107"/>
         </tillage>
         <harvestedStates>
-            <harvestedState farmlandId="46" state="1"/>
+            <harvestedState farmlandId="44" state="1"/>
             <harvestedState farmlandId="97" state="2"/>
             <harvestedState farmlandId="12" state="1"/>
-            <harvestedState farmlandId="44" state="1"/>
-            <harvestedState farmlandId="62" state="2"/>
+            <harvestedState farmlandId="46" state="1"/>
             <harvestedState farmlandId="61" state="2"/>
+            <harvestedState farmlandId="62" state="2"/>
             <harvestedState farmlandId="57" state="2"/>
         </harvestedStates>
     </environmentalScore>
