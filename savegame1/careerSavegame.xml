@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>231897</money>
+        <money>220774</money>
         <playTime>0.000000</playTime>
     </statistics>
-    <slotSystem slotUsage="1318"/>
+    <slotSystem slotUsage="1320"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -80,7 +80,7 @@
     <mod modName="FS22_6cylMokrzynByZiomsoN" title="Mokrzyn Ursus 6cyl Pack" version="3.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_AdjustableWeight" title="Adjustable Weight" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_aiTireTracks" title="AI Tire Tracks" version="1.0.0.0" required="false" fileHash="nil"/>
-    <mod modName="FS22_AIVehicleExtension" title="AI Vehicle Extension" version="0.0.1.6" required="false" fileHash="nil"/>
+    <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Amkar_45" title="Амкар45" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_GrimmePack" title="Grimme Pack" version="1.0.0.1" required="false" fileHash="nil"/>
     <mod modName="FS22_animatedShedPack" title="Animated Shed Pack" version="1.1.0.0" required="false" fileHash="nil"/>
@@ -166,7 +166,7 @@
     <mod modName="FS22_MultiFruitHarvesterPack" title="Multi Fruit Harvester Pack" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_Multifruit_Buying_Station" title="Multifruit Buying Station" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_NewGreenHouses" title="New Greenhouses" version="1.0.2.5" required="false" fileHash="nil"/>
-    <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.0" required="false" fileHash="nil"/>
+    <mod modName="FS22_AIVehicleExtension" title="AI Vehicle Extension" version="0.0.1.6" required="false" fileHash="nil"/>
     <mod modName="FS22_ObjectStorage" title="Хранилище Объектов" version="1.0.1.0" required="false" fileHash="nil"/>
     <mod modName="FS22_oldFuelStationsPack" title="Old Fuel Stations Pack" version="1.0.0.0" required="false" fileHash="nil"/>
     <mod modName="FS22_OldManureHeap" title="Old Manure Heap Pack" version="1.0.0.0" required="false" fileHash="nil"/>
