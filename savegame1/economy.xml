@@ -1345,7 +1345,7 @@
                 <period period="12">0</period>
             </history>
         </fillType>
-        <fillType fillType="STONE">
+        <fillType fillType="STONE" totalAmount="4375">
             <history>
                 <period period="1">50</period>
                 <period period="2">50</period>
