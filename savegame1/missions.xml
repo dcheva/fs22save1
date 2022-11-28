@@ -20,7 +20,4 @@
         <field id="53" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="3" vehicleUseCost="187.615997" spawnedVehicles="false" growthState="4" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="GRASS"/>
         <bale sellPointPlaceableId="63" unloadingStationIndex="1" fillTypeName="SILAGE" depositedLiters="0.000000"/>
     </mission>
-    <mission type="cultivate" reward="838" status="0" success="false">
-        <field id="13" sprayFactor="0.500000" spraySet="true" plowFactor="1.000000" state="3" vehicleGroup="3" vehicleUseCost="145.274994" spawnedVehicles="false" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="SORGHUM"/>
-    </mission>
 </missions>
