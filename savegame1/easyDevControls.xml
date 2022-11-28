@@ -8,7 +8,7 @@
         <player>
             <maxRunningSpeedInputActive>true</maxRunningSpeedInputActive>
             <maxRunningSpeedMultiplier>4</maxRunningSpeedMultiplier>
-            <jumpHeight>1</jumpHeight>
+            <jumpHeight>2</jumpHeight>
         </player>
     </settings>
 </easyDevControls>
