@@ -85,8 +85,8 @@
             <action name="lowerPickup" identifier="data/vehicles/masseyFerguson/baler1840/baler1840.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/locomotive04.xml" id="3" isAbsolute="true" age="1.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="69104.375000" selectedObjectIndex="5" subSelectedObjectIndex="1">
-        <component index="1" position="1574.5203857422 86.45637512207 360.75726318359" rotation="1.1404238791123 1.1085663827195 0"/>
+    <vehicle modName="FS22_Osada" filename="$moddir$FS22_Osada/maps/placeables/train/locomotive04.xml" id="3" isAbsolute="true" age="1.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="69549.570313" selectedObjectIndex="5" subSelectedObjectIndex="1">
+        <component index="1" position="568.09020996094 121.60586547852 -174.30017089844" rotation="-179.99999134858 -0 -179.99999134858"/>
         <configuration name="wheel" id="1"/>
         <configuration name="motor" id="1"/>
         <boughtConfiguration name="motor" id="1"/>
@@ -99,8 +99,8 @@
         <drivable cruiseControl="80" cruiseControlReverse="80"/>
         <attacherJoints comboDirection="-1"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonGrain/wagonGrain.xml" id="4" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69103.429688">
-        <component index="1" position="1574.1412353516 86.835662841797 341.72454833984" rotation="1.1459188730213 1.282330237186 0"/>
+    <vehicle filename="data/vehicles/train/wagonGrain/wagonGrain.xml" id="4" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69548.632813">
+        <component index="1" position="568.09014892578 121.60589599609 -155.41546630859" rotation="179.99992304669 -0.00028205486395306 -179.99999134858"/>
         <configuration name="trailer" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -119,8 +119,8 @@
         <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
         <cover state="0"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" id="5" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69103.429688">
-        <component index="1" position="1573.7492675781 87.180419921875 324.50372314453" rotation="1.1508022448345 1.4346841166472 0"/>
+    <vehicle filename="data/vehicles/train/wagonWoodChips/wagonWoodChips.xml" id="5" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69548.632813">
+        <component index="1" position="568.09020996094 121.60589599609 -138.15539550781" rotation="179.99992304669 -0 -179.99999134858"/>
         <configuration name="trailer" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -136,8 +136,8 @@
         </fillUnit>
         <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" id="6" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69103.429688">
-        <component index="1" position="1573.3110351563 87.527206420898 307.25448608398" rotation="1.1556276667614 1.5992321249327 0"/>
+    <vehicle filename="data/vehicles/train/wagonSugarbeets/wagonSugarbeets.xml" id="6" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69548.632813">
+        <component index="1" position="568.09020996094 121.60589599609 -120.89575195313" rotation="-179.99999134858 -0 -179.99999134858"/>
         <configuration name="trailer" id="1"/>
         <configuration name="wheel" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -156,8 +156,8 @@
         <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
         <cover state="0"/>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonTimber/wagonTimber.xml" id="7" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69103.429688">
-        <component index="1" position="1572.6931152344 87.96794128418 285.42669677734" rotation="1.1615840186044 1.8014263216543 0"/>
+    <vehicle filename="data/vehicles/train/wagonTimber/wagonTimber.xml" id="7" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69548.632813">
+        <component index="1" position="568.09020996094 121.60589599609 -99.132568359375" rotation="-179.99996402782 0 -179.99999134858"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -178,8 +178,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" id="8" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69103.398438">
-        <component index="1" position="1571.8297119141 88.517913818359 258.33233642578" rotation="1.1676056841315 2.0199394411286 0"/>
+    <vehicle filename="data/vehicles/train/wagonVehicles/wagonVehicles.xml" id="8" isAbsolute="true" age="1.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="69548.601563">
+        <component index="1" position="568.09020996094 121.60589599609 -72.026977539063" rotation="-179.99996402782 0 -179.99999134858"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -444,7 +444,7 @@
         <licensePlates variation="1" characters="ERV454___" colorIndex="1" placementIndex="1"/>
         <wheels lastWheelConfiguration="4"/>
         <enterable activeCameraIndex="1" isTabbable="true">
-            <camera rotation="-19.999999418186 180.00000500896 0" translation="0 0 16.25549615383" zoom="16.255529" fovY="1.124554"/>
+            <camera rotation="-30.071156316905 180.00000500896 0" translation="0 0 16.58388073009" zoom="16.583916" fovY="1.124554"/>
             <camera rotation="-18.000000500896 180.00000500896 0" translation="5.9280696662468e-16 1.9671700000763 -0.42884001135826" zoom="2.013381" fovY="1.221730"/>
         </enterable>
         <fillUnit>
@@ -481,35 +481,7 @@
             <unit index="1" fillType="HONEY" fillLevel="317.431488"/>
         </fillUnit>
     </vehicle>
-    <vehicle modName="FS22_Lizard_MT" filename="$moddir$FS22_Lizard_MT/Lizard_MT.xml" id="16" isAbsolute="true" age="1.000000" price="17000.000000" farmId="1" propertyState="1" operatingTime="4172.678223" selectedObjectIndex="1" subSelectedObjectIndex="1">
-        <component index="1" position="92.158729553223 88.073425292969 24.513380050659" rotation="162.15431897198 -87.528143383472 -160.94026650739"/>
-        <configuration name="folding" id="1"/>
-        <configuration name="baseMaterial" id="14"/>
-        <configuration name="powerConsumer" id="1"/>
-        <configuration name="designMaterial" id="8"/>
-        <boughtConfiguration name="folding" id="1"/>
-        <boughtConfiguration name="designMaterial" id="8"/>
-        <boughtConfiguration name="powerConsumer" id="1"/>
-        <boughtConfiguration name="baseMaterial" id="14"/>
-        <washable>
-            <dirtNode amount="1.000000"/>
-        </washable>
-        <wearable damage="0.028533">
-            <wearNode amount="0.137058"/>
-        </wearable>
-        <wheels lastWheelConfiguration="1"/>
-        <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
-        <plow rotationMax="true"/>
-        <realDirtColor>
-            <body r="0.182620" g="0.131046" b="0.072205" curIndex="0.100000" prevIndex="1.000000"/>
-        </realDirtColor>
-        <realDirtColorTracks>
-            <simpleMode r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
-        </realDirtColorTracks>
-        <actionController lastDirection="-1" numActions="2"/>
-    </vehicle>
-    <vehicle modName="FS22_Liebherr_TL436" filename="$moddir$FS22_Liebherr_TL436/liebherrTL432_7.xml" id="17" isAbsolute="true" age="1.000000" price="74750.000000" farmId="1" propertyState="1" operatingTime="6199.069824" selectedObjectIndex="2" subSelectedObjectIndex="1">
+    <vehicle modName="FS22_Liebherr_TL436" filename="$moddir$FS22_Liebherr_TL436/liebherrTL432_7.xml" id="16" isAbsolute="true" age="1.000000" price="74750.000000" farmId="1" propertyState="1" operatingTime="6199.069824" selectedObjectIndex="2" subSelectedObjectIndex="1">
         <component index="1" position="4.8302836418152 87.182098388672 -29.598419189453" rotation="-179.17807370462 -4.7125048126628 -174.40157215386"/>
         <configuration name="trailer" id="1"/>
         <configuration name="wheel" id="3"/>
@@ -546,7 +518,7 @@
         </cylindered>
         <wheels lastWheelConfiguration="3"/>
         <enterable activeCameraIndex="1" isTabbable="true">
-            <camera rotation="-36.563169242011 180.00000500896 0" translation="0 0 17.752041037642" zoom="17.752071" fovY="1.124554"/>
+            <camera rotation="-48.72313748149 180.00000500896 0" translation="0 0 17.3118826162" zoom="17.311911" fovY="1.124554"/>
             <camera rotation="-15.000000417413 180.00000500896 0" translation="0.71136599779129 2.0375499725342 -0.25" zoom="2.172601" fovY="1.396263"/>
         </enterable>
         <fillUnit>
@@ -582,7 +554,7 @@
             <action name="turnOn" identifier="C:/Documents/My Games/FarmingSimulator2022/mods/FS22_StoneBucket/285.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_StoneBucket" filename="$moddir$FS22_StoneBucket/285.xml" id="18" isAbsolute="true" age="1.000000" price="1079.000000" farmId="1" propertyState="1" operatingTime="6046.267578">
+    <vehicle modName="FS22_StoneBucket" filename="$moddir$FS22_StoneBucket/285.xml" id="17" isAbsolute="true" age="1.000000" price="1079.000000" farmId="1" propertyState="1" operatingTime="6046.267578">
         <component index="1" position="4.5164594650269 87.571968078613 -32.937850952148" rotation="148.46746681873 -4.7143438410968 -174.40128528592"/>
         <configuration name="inputAttacherJoint" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -608,7 +580,7 @@
             <body r="0.200000" g="0.140000" b="0.080000" curIndex="0.100000" prevIndex="0.100000"/>
         </realDirtColor>
     </vehicle>
-    <vehicle modName="FS22_Lizard4T_crossplay" filename="$moddir$FS22_Lizard4T_crossplay/lizard4t.xml" id="19" isAbsolute="true" age="1.000000" price="5000.000000" farmId="1" propertyState="1" operatingTime="6550.855957" selectedObjectIndex="1" subSelectedObjectIndex="1">
+    <vehicle modName="FS22_Lizard4T_crossplay" filename="$moddir$FS22_Lizard4T_crossplay/lizard4t.xml" id="18" isAbsolute="true" age="1.000000" price="5000.000000" farmId="1" propertyState="1" operatingTime="6550.855957" selectedObjectIndex="1" subSelectedObjectIndex="1">
         <component index="1" position="34.699096679688 86.637672424316 28.649066925049" rotation="-68.941771142331 88.213047432684 -71.747817759047"/>
         <configuration name="trailer" id="1"/>
         <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
@@ -665,7 +637,7 @@
             <wheel2 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
     </vehicle>
-    <vehicle filename="data/vehicles/elho/scorpio550/scorpio550.xml" id="20" isAbsolute="true" age="1.000000" price="52000.000000" farmId="1" propertyState="1" operatingTime="3473.797363" selectedObjectIndex="1" subSelectedObjectIndex="1">
+    <vehicle filename="data/vehicles/elho/scorpio550/scorpio550.xml" id="19" isAbsolute="true" age="1.000000" price="52000.000000" farmId="1" propertyState="1" operatingTime="3473.797363" selectedObjectIndex="1" subSelectedObjectIndex="1">
         <component index="1" position="54.398857116699 87.923027038574 50.954635620117" rotation="-3.6232872886448 -0.8663833493982 -0.50532012652087"/>
         <configuration name="folding" id="1"/>
         <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
@@ -711,7 +683,7 @@
             <action name="turnOn" identifier="data/vehicles/elho/scorpio550/scorpio550.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_Kramer_KL30_8T" filename="$moddir$FS22_Kramer_KL30_8T/t308.xml" id="21" isAbsolute="true" age="1.000000" price="60000.000000" farmId="1" propertyState="1" operatingTime="295.911194" selectedObjectIndex="2" subSelectedObjectIndex="1">
+    <vehicle modName="FS22_Kramer_KL30_8T" filename="$moddir$FS22_Kramer_KL30_8T/t308.xml" id="20" isAbsolute="true" age="1.000000" price="60000.000000" farmId="1" propertyState="1" operatingTime="295.911194" selectedObjectIndex="2" subSelectedObjectIndex="1">
         <component index="1" position="30.981979370117 86.965538024902 20.339889526367" rotation="0.98832442419773 -17.41501016641 0.036091833482151"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="motor" id="1"/>
@@ -741,7 +713,7 @@
         </cylindered>
         <wheels lastWheelConfiguration="6"/>
         <enterable activeCameraIndex="1" isTabbable="true">
-            <camera rotation="-22.423717549977 180.00000500896 0" translation="0 0 16.730449986225" zoom="16.730484" fovY="1.124554"/>
+            <camera rotation="-6.9812868966625 180.00000500896 0" translation="0 0 15.90624506712" zoom="15.906277" fovY="1.124554"/>
             <camera rotation="-18.999999959541 180.00000500896 0" translation="2.9998600916275e-16 2.3971600532532 -0.91383498907089" zoom="2.565448" fovY="1.396263"/>
         </enterable>
         <fillUnit>
@@ -766,7 +738,7 @@
             <wheel4 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
     </vehicle>
-    <vehicle modName="FS22_bresselUndLadeShovelPack" filename="$moddir$FS22_bresselUndLadeShovelPack/vehicles/bresselUndLade/l16/l16.xml" id="22" isAbsolute="true" age="1.000000" price="2400.000000" farmId="1" propertyState="1" operatingTime="280.392944">
+    <vehicle modName="FS22_bresselUndLadeShovelPack" filename="$moddir$FS22_bresselUndLadeShovelPack/vehicles/bresselUndLade/l16/l16.xml" id="21" isAbsolute="true" age="1.000000" price="2400.000000" farmId="1" propertyState="1" operatingTime="280.392944">
         <component index="1" position="29.86198425293 88.211479187012 23.907983779907" rotation="-44.458005251031 -17.415046024903 0.036087731366585"/>
         <configuration name="inputAttacherJoint" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -796,7 +768,7 @@
             <body r="0.200000" g="0.140000" b="0.080000" curIndex="0.100000" prevIndex="0.100000"/>
         </realDirtColor>
     </vehicle>
-    <vehicle modName="FS22_Fendt500Favorit" filename="$moddir$FS22_Fendt500Favorit/favorit500.xml" id="23" isAbsolute="true" age="1.000000" price="117150.000000" farmId="1" propertyState="1" operatingTime="10304.691406" selectedObjectIndex="2" subSelectedObjectIndex="1">
+    <vehicle modName="FS22_Fendt500Favorit" filename="$moddir$FS22_Fendt500Favorit/favorit500.xml" id="22" isAbsolute="true" age="1.000000" price="117150.000000" farmId="1" propertyState="1" operatingTime="10304.691406" selectedObjectIndex="2" subSelectedObjectIndex="1">
         <component index="1" position="-275.26950073242 105.48770141602 439.62048339844" rotation="179.58810362087 -13.583660801494 -179.99893949945"/>
         <component index="2" position="-275.58575439453 106.10438537598 438.31155395508" rotation="179.58795335671 -13.583771792068 -179.99822915977"/>
         <configuration name="design2" id="1"/>
@@ -859,7 +831,7 @@
         </cylindered>
         <wheels lastWheelConfiguration="12"/>
         <enterable activeCameraIndex="1" isTabbable="true">
-            <camera rotation="-20.484158815342 180.00000500896 0" translation="0 0 17.999949900674" zoom="17.999979" fovY="1.124554"/>
+            <camera rotation="-36.150263080174 180.00000500896 0" translation="0 0 17.913171512394" zoom="17.913202" fovY="1.124554"/>
             <camera rotation="-18.000000500896 180.00000500896 0" translation="1.3632099548716e-15 2.3989000320435 -0.9755300283432" zoom="2.589678" fovY="1.221730"/>
         </enterable>
         <fillUnit>
@@ -887,7 +859,7 @@
             <action name="cropSensorTurnOn" identifier="C:/Documents/My Games/FarmingSimulator2022/mods/FS22_Fendt500Favorit/favorit500.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_quadTransport" filename="$moddir$FS22_quadTransport/remorqueQuad.xml" id="24" isAbsolute="true" age="1.000000" price="1300.000000" farmId="1" propertyState="1" operatingTime="1001.577942" selectedObjectIndex="1" subSelectedObjectIndex="1">
+    <vehicle modName="FS22_quadTransport" filename="$moddir$FS22_quadTransport/remorqueQuad.xml" id="23" isAbsolute="true" age="1.000000" price="1300.000000" farmId="1" propertyState="1" operatingTime="1001.577942" selectedObjectIndex="1" subSelectedObjectIndex="1">
         <component index="1" position="17.18762588501 87.153274536133 -8.2254085540771" rotation="-177.53188883162 -6.1102039885629 179.9883117251"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="NOKIAN_DEFAULT"/>
@@ -933,7 +905,7 @@
             <wheel2 r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
     </vehicle>
-    <vehicle filename="data/vehicles/bredal/k105/k105.xml" id="25" isAbsolute="true" age="1.000000" price="46250.000000" farmId="1" propertyState="1" operatingTime="2282.713379" selectedObjectIndex="1" subSelectedObjectIndex="1">
+    <vehicle filename="data/vehicles/bredal/k105/k105.xml" id="24" isAbsolute="true" age="1.000000" price="46250.000000" farmId="1" propertyState="1" operatingTime="2282.713379" selectedObjectIndex="1" subSelectedObjectIndex="1">
         <component index="1" position="-268.83349609375 105.36634063721 440.2008972168" rotation="-1.2136639975824 0.82960230047001 -0.047970856464966"/>
         <configuration name="folding" id="1"/>
         <configuration name="wheel" id="CONTINENTAL_NARROW"/>
@@ -979,7 +951,7 @@
             <action name="turnOn" identifier="data/vehicles/bredal/k105/k105.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_precisionFarming" filename="$moddir$FS22_precisionFarming/vehicles/fritzmeier/isariaScout/isariaScout.xml" id="26" isAbsolute="true" age="1.000000" price="17000.000000" farmId="1" propertyState="1" operatingTime="2929.303711">
+    <vehicle modName="FS22_precisionFarming" filename="$moddir$FS22_precisionFarming/vehicles/fritzmeier/isariaScout/isariaScout.xml" id="25" isAbsolute="true" age="1.000000" price="17000.000000" farmId="1" propertyState="1" operatingTime="2929.303711">
         <component index="1" position="23.290630340576 87.44660949707 -11.513298034668" rotation="-178.73498567278 -11.670570064977 -179.99954055609"/>
         <configuration name="folding" id="1"/>
         <boughtConfiguration name="folding" id="1"/>
@@ -999,7 +971,7 @@
             <body r="0.207053" g="0.148645" b="0.088418" curIndex="0.100000" prevIndex="3.000000"/>
         </realDirtColor>
     </vehicle>
-    <vehicle modName="FS22_precisionFarming" filename="$moddir$FS22_precisionFarming/vehicles/fritzmeier/isariaProActive/isariaProActive.xml" id="27" isAbsolute="true" age="1.000000" price="23900.000000" farmId="1" propertyState="1" operatingTime="2939.960938">
+    <vehicle modName="FS22_precisionFarming" filename="$moddir$FS22_precisionFarming/vehicles/fritzmeier/isariaProActive/isariaProActive.xml" id="26" isAbsolute="true" age="1.000000" price="23900.000000" farmId="1" propertyState="1" operatingTime="2939.960938">
         <component index="1" position="22.427982330322 87.322639465332 -15.691738128662" rotation="-179.60804777325 -11.670649465926 179.99971814101"/>
         <configuration name="folding" id="1"/>
         <configuration name="attacherJoint" id="1"/>
@@ -1020,9 +992,9 @@
             <body r="0.207428" g="0.149106" b="0.088866" curIndex="0.100000" prevIndex="3.000000"/>
         </realDirtColor>
     </vehicle>
-    <vehicle modName="FS22_MF3690A" filename="$moddir$FS22_MF3690A/series3690.xml" id="28" isAbsolute="true" age="1.000000" price="115000.000000" farmId="1" propertyState="1" operatingTime="14017.872070" selectedObjectIndex="1" subSelectedObjectIndex="1">
-        <component index="1" position="-201.9910736084 105.27729034424 375.10580444336" rotation="-179.85722673455 84.776963676359 -179.99109844228"/>
-        <component index="2" position="-200.32641601563 106.01049041748 374.95361328125" rotation="-179.87259466018 84.776963676359 179.99344802735"/>
+    <vehicle modName="FS22_MF3690A" filename="$moddir$FS22_MF3690A/series3690.xml" id="27" isAbsolute="true" age="1.000000" price="115000.000000" farmId="1" propertyState="1" operatingTime="14165.574219" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="-242.96849060059 105.33177185059 412.06369018555" rotation="-179.90132243583 -88.986982997728 -179.96511640268"/>
+        <component index="2" position="-244.63981628418 106.06496429443 412.03414916992" rotation="-179.85956265924 -88.987174243024 179.99312017827"/>
         <configuration name="wheel" id="NOKIAN_COMMUNAL"/>
         <configuration name="baseMaterial" id="1"/>
         <configuration name="fillUnit" id="1"/>
@@ -1040,24 +1012,24 @@
         <boughtConfiguration name="rimColor" id="1"/>
         <boughtConfiguration name="rimColor" id="3"/>
         <washable>
-            <dirtNode amount="0.000745"/>
-            <dirtNode amount="0.000745" snowScale="0.000000"/>
-            <dirtNode amount="0.000745" snowScale="0.000000"/>
-            <dirtNode amount="0.000745" snowScale="0.000000"/>
-            <dirtNode amount="0.000745" snowScale="0.000000"/>
+            <dirtNode amount="0.005435"/>
+            <dirtNode amount="0.005435" snowScale="0.000000"/>
+            <dirtNode amount="0.005435" snowScale="0.000000"/>
+            <dirtNode amount="0.005435" snowScale="0.000000"/>
+            <dirtNode amount="0.005435" snowScale="0.000000"/>
         </washable>
-        <wearable damage="0.183091">
-            <wearNode amount="0.259071"/>
+        <wearable damage="0.185185">
+            <wearNode amount="0.259951"/>
         </wearable>
         <licensePlates variation="1" characters="ERV454___" colorIndex="1" placementIndex="1"/>
         <wheels lastWheelConfiguration="31"/>
         <enterable activeCameraIndex="1" isTabbable="true">
-            <camera rotation="-33.354041331791 180.00000500896 0" translation="0 0 17.699968756687" zoom="17.699999" fovY="1.124554"/>
+            <camera rotation="-44.396275415256 180.00000500896 0" translation="0 0 17.699968756687" zoom="17.699999" fovY="1.124554"/>
             <camera rotation="-18.000000500896 180.00000500896 0" translation="-0 2.5624799728394 -0.78157299757004" zoom="2.679032" fovY="1.221730"/>
         </enterable>
         <fillUnit>
             <unit index="1" fillType="DIESEL" fillLevel="246.994461"/>
-            <unit index="2" fillType="AIR" fillLevel="1252.260498"/>
+            <unit index="2" fillType="AIR" fillLevel="1483.353638"/>
         </fillUnit>
         <drivable cruiseControl="20" cruiseControlReverse="20"/>
         <aiFieldWorker lastTurnDirection="true"/>
@@ -1083,9 +1055,9 @@
         </realDirtColorTracks>
         <zzzVehicleControlAddon lastSnapAngle="-1.570796" lastSnapPosX="-333.819336" lastSnapPosZ="370.667725" snapDistance="24.000000"/>
     </vehicle>
-    <vehicle modName="FS22_Autoload_Belt" filename="$moddir$FS22_Autoload_Belt/tc816.xml" id="29" isAbsolute="true" age="0.000000" price="19000.000000" farmId="1" propertyState="1" operatingTime="85.780884" selectedObjectIndex="1" subSelectedObjectIndex="1">
-        <component index="1" position="-208.87840270996 105.06673431396 366.50799560547" rotation="3.7070296767374 -0.025304441814876 0.0036308308457169"/>
-        <component index="2" position="-208.87857055664 106.59879302979 366.76300048828" rotation="3.6061866293972 -0.024675043884923 0.0014298636672848"/>
+    <vehicle modName="FS22_Autoload_Belt" filename="$moddir$FS22_Autoload_Belt/tc816.xml" id="28" isAbsolute="true" age="0.000000" price="19000.000000" farmId="1" propertyState="1" operatingTime="85.780884" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="-208.87840270996 105.06673431396 366.50799560547" rotation="3.7070262616428 -0.024400553990126 0.0036857525035547"/>
+        <component index="2" position="-208.87857055664 106.59880065918 366.76300048828" rotation="3.6060957025039 -0.023791139699581 0.0020376604569767"/>
         <configuration name="wheel" id="1"/>
         <configuration name="baseMaterial" id="15"/>
         <configuration name="fillUnit" id="1"/>
@@ -1155,7 +1127,7 @@
             <action name="turnOn" identifier="C:/Documents/My Games/FarmingSimulator2022/mods/FS22_Autoload_Belt/tc816.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle filename="data/vehicles/poettinger/terrasemC6F/terrasemC6F.xml" id="30" isAbsolute="true" age="0.000000" price="109500.000000" farmId="1" propertyState="1" operatingTime="2703.675049" selectedObjectIndex="1" subSelectedObjectIndex="1">
+    <vehicle filename="data/vehicles/poettinger/terrasemC6F/terrasemC6F.xml" id="29" isAbsolute="true" age="0.000000" price="109500.000000" farmId="1" propertyState="1" operatingTime="2703.675049" selectedObjectIndex="1" subSelectedObjectIndex="1">
         <component index="1" position="-261.84051513672 105.35063934326 438.50714111328" rotation="-1.2434996512592 0.89129363627062 0.0055150204871999"/>
         <component index="2" position="-261.75527954102 106.03423309326 443.99252319336" rotation="-1.2421446057609 0.8912933161055 0.0055139920401368"/>
         <configuration name="folding" id="1"/>
@@ -1202,7 +1174,7 @@
             <action name="turnOn" identifier="data/vehicles/poettinger/terrasemC6F/terrasemC6F.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle modName="FS22_precisionFarming" filename="$moddir$FS22_precisionFarming/vehicles/johnDeere/r700i/r700i.xml" id="31" isAbsolute="true" age="0.000000" price="92000.000000" farmId="1" propertyState="1" operatingTime="1355.115479" selectedObjectIndex="1" subSelectedObjectIndex="1">
+    <vehicle modName="FS22_precisionFarming" filename="$moddir$FS22_precisionFarming/vehicles/johnDeere/r700i/r700i.xml" id="30" isAbsolute="true" age="0.000000" price="92000.000000" farmId="1" propertyState="1" operatingTime="1355.115479" selectedObjectIndex="1" subSelectedObjectIndex="1">
         <component index="1" position="-265.23596191406 105.30335235596 439.46685791016" rotation="0.43763500623888 2.6614848091594 0.078219326374986"/>
         <component index="2" position="-265.12985229492 106.11705780029 441.77243041992" rotation="0.25481114596217 2.639563743905 0.20892758930446"/>
         <configuration name="folding" id="2"/>
@@ -1255,36 +1227,108 @@
             <action name="turnOn" identifier="C:/Documents/My Games/FarmingSimulator2022/mods/FS22_precisionFarming/vehicles/johnDeere/r700i/r700i.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle filename="data/vehicles/kuhn/prolander7500/prolander7500.xml" id="32" isAbsolute="true" age="1.000000" price="59500.000000" farmId="1" propertyState="1" operatingTime="1248.304565" selectedObjectIndex="1" subSelectedObjectIndex="1">
-        <component index="1" position="-205.2777557373 105.61024475098 365.05386352539" rotation="-0.96120441104626 -0.030623916870959 0.0048953784219296"/>
-        <component index="2" position="-204.52867126465 107.95419311523 363.88137817383" rotation="-0.029934507991824 0.95018197982974 90.007379108782"/>
-        <component index="3" position="-206.02658081055 107.9536895752 363.88061523438" rotation="0.03115632811573 -0.95064547219794 -89.996006843814"/>
-        <component index="4" position="-205.27981567383 106.06143951416 368.86294555664" rotation="11.458185332735 -0.030674112758263 0.005636741178342"/>
+    <vehicle filename="data/vehicles/kuhn/prolander7500/prolander7500.xml" id="31" isAbsolute="true" age="1.000000" price="59500.000000" farmId="1" propertyState="1" operatingTime="1532.973755" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="250.30926513672 100.60887145996 399.60702514648" rotation="-8.8705305996356 62.854125987936 -4.4519621241307"/>
+        <component index="2" position="250.3441619873 101.15473175049 396.91976928711" rotation="-8.5799077579989 62.877416933006 -4.124871194968"/>
+        <component index="3" position="248.17329406738 101.29833221436 401.17114257813" rotation="-7.4313311943385 62.959331391722 -2.8348230574632"/>
+        <component index="4" position="253.67106628418 101.71953582764 401.28143310547" rotation="-5.2005436000881 62.853934742639 -4.4486516168174"/>
         <configuration name="folding" id="1"/>
         <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
         <boughtConfiguration name="folding" id="1"/>
         <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
         <washable>
-            <dirtNode amount="0.603039"/>
-            <dirtNode amount="0.919828" snowScale="0.000000"/>
-            <dirtNode amount="0.885890" snowScale="0.000000"/>
-            <dirtNode amount="0.860712" snowScale="0.000000"/>
-            <dirtNode amount="0.846126" snowScale="0.000000"/>
+            <dirtNode amount="0.621443"/>
+            <dirtNode amount="0.921111" snowScale="0.000000"/>
+            <dirtNode amount="0.887602" snowScale="0.000000"/>
+            <dirtNode amount="0.879116" snowScale="0.000000"/>
+            <dirtNode amount="0.863835" snowScale="0.000000"/>
         </washable>
-        <wearable damage="0.014716">
-            <wearNode amount="0.106711"/>
+        <wearable damage="0.018090">
+            <wearNode amount="0.111482"/>
         </wearable>
         <licensePlates variation="1" characters="ERV454___" colorIndex="1" placementIndex="1"/>
         <wheels lastWheelConfiguration="1"/>
         <attacherJoints comboDirection="-1"/>
-        <foldable foldAnimTime="1.000000"/>
+        <foldable foldAnimTime="0.000000"/>
         <realDirtColor>
-            <body r="0.211925" g="0.154618" b="0.094233" curIndex="0.100000" prevIndex="3.000000"/>
+            <body r="0.200173" g="0.140213" b="0.080207" curIndex="0.100000" prevIndex="3.000000"/>
         </realDirtColor>
         <realDirtColorTracks>
             <simpleMode r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
         </realDirtColorTracks>
-        <actionController lastDirection="-1" numActions="2"/>
+        <actionController lastDirection="-1" numActions="3">
+            <action name="lower" identifier="data/vehicles/kuhn/prolander7500/prolander7500.xml" lastDirection="-1"/>
+        </actionController>
+    </vehicle>
+    <vehicle modName="FS22_Lizard_MT" filename="$moddir$FS22_Lizard_MT/Lizard_MT.xml" id="32" isAbsolute="true" age="1.000000" price="17000.000000" farmId="1" propertyState="1" operatingTime="4490.518066">
+        <component index="1" position="264.29824829102 101.15657043457 403.34481811523" rotation="-21.51135635697 79.487166579291 -20.743491122551"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="designMaterial" id="8"/>
+        <configuration name="powerConsumer" id="1"/>
+        <configuration name="baseMaterial" id="14"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="designMaterial" id="8"/>
+        <boughtConfiguration name="powerConsumer" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="14"/>
+        <washable>
+            <dirtNode amount="1.000000"/>
+        </washable>
+        <wearable damage="0.032503">
+            <wearNode amount="0.142032"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <foldable foldAnimTime="0.000000"/>
+        <plow rotationMax="false"/>
+        <realDirtColor>
+            <body r="0.186162" g="0.132871" b="0.073793" curIndex="0.100000" prevIndex="1.000000"/>
+        </realDirtColor>
+        <realDirtColorTracks>
+            <simpleMode r="0.200000" g="0.140000" b="0.080000" colorIsDefault="true"/>
+        </realDirtColorTracks>
+    </vehicle>
+    <vehicle modName="FS19_HTZ_T150_i" filename="$moddir$FS19_HTZ_T150_i/xtzT150.xml" id="33" isAbsolute="true" age="0.000000" price="3800.000000" farmId="1" propertyState="1" operatingTime="277.332733" selectedObjectIndex="2" subSelectedObjectIndex="1">
+        <component index="1" position="268.58666992188 101.58712768555 404.02224731445" rotation="-8.4413727386108 80.321078035436 -5.0911137243008"/>
+        <component index="2" position="268.5803527832 101.58860015869 404.05889892578" rotation="-23.789121992331 79.507165373181 -20.677866665006"/>
+        <component index="3" position="268.92837524414 102.19902801514 402.98861694336" rotation="-7.1816322848875 80.353507773616 -3.8139311018714"/>
+        <component index="4" position="268.57250976563 102.2307434082 405.08340454102" rotation="-14.018264030835 80.130549908539 -10.749515640306"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="design" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.035077"/>
+        </washable>
+        <wearable damage="0.002703">
+            <wearNode amount="0.074432"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="2.611811"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-40.939574085523 172.692067497 0" translation="0 0 13.799984666684" zoom="13.800000" fovY="1.124554"/>
+            <camera rotation="-10.000000562867 180.00000500896 0" translation="-0.3910000026226 2.6343200206757 0.21831600368023" zoom="2.672122" fovY="1.279908"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="310.999023"/>
+            <unit index="2" fillType="AIR" fillLevel="2719.947754"/>
+        </fillUnit>
+        <drivable cruiseControl="30" cruiseControlReverse="9"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <realDirtColor>
+            <body r="0.200000" g="0.140000" b="0.080000" curIndex="0.100000" prevIndex="0.100000"/>
+        </realDirtColor>
+        <zzzVehicleControlAddon snapOffset="0.300000" snapDistance="7.600000"/>
+        <actionController lastDirection="-1" numActions="4">
+            <action name="lower" identifier="C:/Documents/My Games/FarmingSimulator2022/mods/FS22_Lizard_MT/Lizard_MT.xml" lastDirection="-1"/>
+            <action name="lower" identifier="C:/Documents/My Games/FarmingSimulator2022/mods/FS22_Lizard_MT/Lizard_MT.xml" lastDirection="-1"/>
+        </actionController>
     </vehicle>
     <attachments rootVehicleId="3">
         <attachment attachmentId="4" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
@@ -1302,16 +1346,19 @@
         <attachment attachmentId="8" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
     </attachments>
     <attachments rootVehicleId="14">
-        <attachment attachmentId="27" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
-        <attachment attachmentId="26" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+        <attachment attachmentId="26" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+        <attachment attachmentId="25" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
     </attachments>
-    <attachments rootVehicleId="17">
-        <attachment attachmentId="18" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    <attachments rootVehicleId="16">
+        <attachment attachmentId="17" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
     </attachments>
-    <attachments rootVehicleId="21">
-        <attachment attachmentId="22" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
+    <attachments rootVehicleId="20">
+        <attachment attachmentId="21" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
     </attachments>
-    <attachments rootVehicleId="23">
+    <attachments rootVehicleId="22">
         <attachment attachmentId="9" inputJointDescIndex="1" jointIndex="3" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="33">
+        <attachment attachmentId="32" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
     </attachments>
 </vehicles>
